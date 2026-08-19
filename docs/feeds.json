@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19 17:22 UTC",
+  "generated_at": "2026-08-19 18:29 UTC",
   "items": [
     {
       "title": "LG to Ban Residential Proxies from Smart TV Apps",
@@ -16,6 +16,14 @@
       "summary": "A previously unreported cyber espionage operation dubbed SilkParasite has been observed targeting government bodies in Central Asia. The intrusion set makes use of seven remote access tool (RAT) families, five of which have never been previ…",
       "source": "The Hacker News",
       "category": "Cyber"
+    },
+    {
+      "title": "Waymo is bringing Gemini into its custom Ojai vehicles.",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-waymo/",
+      "published": "Wed, 19 Aug 2026 17:30:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Ojai_vehicles_social.max-600x600.format-webp.webp\" />Waymo is bringing Gemini to its custom-built Ojai vehicles to create a more helpful and personalized ride.",
+      "source": "Google Blog",
+      "category": "Tech"
     },
     {
       "title": "Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P",
@@ -50,12 +58,28 @@
       "category": "Cyber"
     },
     {
+      "title": "Hackers compromise 14,500 Dahua web cameras in 35-day campaign",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-14-500-dahua-web-cameras-in-35-day-campaign/",
+      "published": "Wed, 19 Aug 2026 14:09:13 -0400",
+      "summary": "In a large-scale campaign that researchers dubbed CameraSwarm, hackers compromised more than 14,500 Dahua IP cameras mostly in Ukraine and Russia. [...]",
+      "source": "BleepingComputer",
+      "category": "Cyber"
+    },
+    {
       "title": "What 3 creatives built with unlimited access to Google Flow",
       "link": "https://blog.google/products/ads-commerce/the-small-brief/",
       "published": "Wed, 19 Aug 2026 14:00:00 +0000",
       "summary": "Text \"Google Presents The Small Brief\", above photos of Susan Credle, Jayanta Jenkins, and Tiffany Rolfe",
       "source": "Google Blog",
       "category": "Tech"
+    },
+    {
+      "title": "US warns of AI-powered attacks on Siemens PLCs in critical infrastructure",
+      "link": "https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/",
+      "published": "Wed, 19 Aug 2026 13:50:01 -0400",
+      "summary": "U.S. cybersecurity agencies warn that threat actors are using AI-generated scripts to exploit Siemens S7 Series programmable logic controllers (PLCs) in U.S. critical infrastructure. [...]",
+      "source": "BleepingComputer",
+      "category": "Cyber"
     },
     {
       "title": "US charges Iranian hackers over $3.4 billion intellectual property theft",
@@ -130,10 +154,10 @@
       "category": "Tech"
     },
     {
-      "title": "7 can’t-miss updates from our Pixel 11 launch",
-      "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-features/",
+      "title": "How we built the new GPS on Pixel Watch 5",
+      "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5-gps/",
       "published": "Wed, 12 Aug 2026 14:00:00 +0000",
-      "summary": "Thumbnail image of YouTube video for the launch of Pixel 11 Pro and Pixel 11 Pro XL",
+      "summary": "Man jogging wearing Pixel Watch 5",
       "source": "Google Blog",
       "category": "Tech"
     },
@@ -154,10 +178,10 @@
       "category": "Tech"
     },
     {
-      "title": "How we built the new GPS on Pixel Watch 5",
-      "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5-gps/",
+      "title": "7 can’t-miss updates from our Pixel 11 launch",
+      "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-features/",
       "published": "Wed, 12 Aug 2026 14:00:00 +0000",
-      "summary": "Man jogging wearing Pixel Watch 5",
+      "summary": "Thumbnail image of YouTube video for the launch of Pixel 11 Pro and Pixel 11 Pro XL",
       "source": "Google Blog",
       "category": "Tech"
     },
@@ -174,14 +198,6 @@
       "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-helpful-updates-features/",
       "published": "Wed, 12 Aug 2026 14:00:00 +0000",
       "summary": "Shakil Barkat, vice president of devices and services, shares his favorite Pixel 11 features",
-      "source": "Google Blog",
-      "category": "Tech"
-    },
-    {
-      "title": "New accessories for Pixel 11 phones are here.",
-      "link": "https://blog.google/products-and-platforms/devices/pixel/new-pixelsnap-accessories-cases-ring-stand/",
-      "published": "Wed, 12 Aug 2026 14:00:00 +0000",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Accessories.max-600x600.format-webp.webp\" />Google is rolling out new Pixel accessories as part of Made by Google",
       "source": "Google Blog",
       "category": "Tech"
     },
@@ -511,22 +527,6 @@
       "published": "Mon, 17 Aug 2026 23:11:06 +0530",
       "summary": "Cybersecurity researchers have traced the continued evolution of the Cavern (aka Cav3rn) command-and-control (C2) framework used by Iranian nation-state hackers in attacks targeting entities in Israel. Russian cybersecurity company Kaspersk…",
       "source": "The Hacker News",
-      "category": "Cyber"
-    },
-    {
-      "title": "Hacker claims 3.6 million Azure account records stolen from major companies",
-      "link": "https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/",
-      "published": "Mon, 17 Aug 2026 15:35:01 -0400",
-      "summary": "A threat actor is selling employee databases allegedly stolen from the Microsoft Azure infrastructure of multiple Fortune 500 companies after gaining access using compromised credentials. [...]",
-      "source": "BleepingComputer",
-      "category": "Cyber"
-    },
-    {
-      "title": "Pokémon Center data breach exposes customer info, cancels some orders",
-      "link": "https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/",
-      "published": "Mon, 17 Aug 2026 15:12:39 -0400",
-      "summary": "Pokémon Center is notifying customers in the United Kingdom and Germany that it suffered a third-party data breach after hackers stole customer personal and order information from third-party logistics provider CEVA Logistics. [...]",
-      "source": "BleepingComputer",
       "category": "Cyber"
     },
     {
