@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19 13:40 UTC",
+  "generated_at": "2026-08-19 14:29 UTC",
   "items": [
     {
       "title": "LG to Ban Residential Proxies from Smart TV Apps",
@@ -50,6 +50,14 @@
       "category": "Cyber"
     },
     {
+      "title": "What 3 creatives built with unlimited access to Google Flow",
+      "link": "https://blog.google/products/ads-commerce/the-small-brief/",
+      "published": "Wed, 19 Aug 2026 14:00:00 +0000",
+      "summary": "Text \"Google Presents The Small Brief\", above photos of Susan Credle, Jayanta Jenkins, and Tiffany Rolfe",
+      "source": "Google Blog",
+      "category": "Tech"
+    },
+    {
       "title": "Microsoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure",
       "link": "https://thehackernews.com/2026/08/microsoft-links-30-rotating-domains-to.html",
       "published": "Wed, 19 Aug 2026 11:31:53 +0530",
@@ -63,6 +71,14 @@
       "published": "Wed, 19 Aug 2026 11:09:25 +0530",
       "summary": "A JavaServer Pages (JSP) web shell deployed following the exploitation of a critical security flaw in PTC Windchill and FlexPLM servers is specifically designed for the enterprise Product Lifecycle Management (PLM) software, according to ne…",
       "source": "The Hacker News",
+      "category": "Cyber"
+    },
+    {
+      "title": "Password spraying attacks surge 155x as hackers exploit MFA gaps",
+      "link": "https://www.bleepingcomputer.com/news/security/password-spraying-attacks-surge-155x-as-hackers-exploit-mfa-gaps/",
+      "published": "Wed, 19 Aug 2026 10:00:10 -0400",
+      "summary": "Huntress observed a 155x increase in password spraying attacks in H1 2026, including a campaign that generated more than 81 million login attempts in two weeks. The attacks exploited legacy authentication and gaps in MFA policies that left …",
+      "source": "BleepingComputer",
       "category": "Cyber"
     },
     {
@@ -106,10 +122,10 @@
       "category": "Tech"
     },
     {
-      "title": "How we built the new GPS on Pixel Watch 5",
-      "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5-gps/",
+      "title": "7 can’t-miss updates from our Pixel 11 launch",
+      "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-features/",
       "published": "Wed, 12 Aug 2026 14:00:00 +0000",
-      "summary": "Man jogging wearing Pixel Watch 5",
+      "summary": "Thumbnail image of YouTube video for the launch of Pixel 11 Pro and Pixel 11 Pro XL",
       "source": "Google Blog",
       "category": "Tech"
     },
@@ -130,10 +146,10 @@
       "category": "Tech"
     },
     {
-      "title": "7 can’t-miss updates from our Pixel 11 launch",
-      "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-features/",
+      "title": "How we built the new GPS on Pixel Watch 5",
+      "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5-gps/",
       "published": "Wed, 12 Aug 2026 14:00:00 +0000",
-      "summary": "Thumbnail image of YouTube video for the launch of Pixel 11 Pro and Pixel 11 Pro XL",
+      "summary": "Man jogging wearing Pixel Watch 5",
       "source": "Google Blog",
       "category": "Tech"
     },
@@ -158,14 +174,6 @@
       "link": "https://blog.google/products-and-platforms/devices/pixel/new-pixelsnap-accessories-cases-ring-stand/",
       "published": "Wed, 12 Aug 2026 14:00:00 +0000",
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Accessories.max-600x600.format-webp.webp\" />Google is rolling out new Pixel accessories as part of Made by Google",
-      "source": "Google Blog",
-      "category": "Tech"
-    },
-    {
-      "title": "Here’s what’s new with Pixel Buds Pro 2 and Pixel Buds 2a.",
-      "link": "https://blog.google/products-and-platforms/devices/pixel/google-pixel-buds-mbg-2026/",
-      "published": "Wed, 12 Aug 2026 14:00:00 +0000",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pixel_Buds_Pro_2_and_Pixel_Buds.max-600x600.format-webp.webp\" />Google is launching a new color and upgraded features for Pixel Buds Pro 2 and Pixel Buds 2a as part o…",
       "source": "Google Blog",
       "category": "Tech"
     },
@@ -518,14 +526,6 @@
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/",
       "published": "Mon, 17 Aug 2026 10:47:08 -0400",
       "summary": "GitHub is down for some users as a widespread outage is causing errors across the website, API, Actions, Pull Requests, and several other services. [...]",
-      "source": "BleepingComputer",
-      "category": "Cyber"
-    },
-    {
-      "title": "Certighost and the Privilege Hiding in Your Certificate Authority",
-      "link": "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/",
-      "published": "Mon, 17 Aug 2026 10:00:10 -0400",
-      "summary": "CVE-2026-54121 lets a standard domain user turn your Enterprise CA into a Domain Controller. The patch is the easy part. The lesson is standing privilege, implicit trust, and treating PKI as the Tier 0 identity infrastructure it has always …",
       "source": "BleepingComputer",
       "category": "Cyber"
     },
