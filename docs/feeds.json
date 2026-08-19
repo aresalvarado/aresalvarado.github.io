@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19 12:38 UTC",
+  "generated_at": "2026-08-19 13:40 UTC",
   "items": [
     {
       "title": "LG to Ban Residential Proxies from Smart TV Apps",
@@ -7,6 +7,30 @@
       "published": "Wed, 22 Jul 2026 01:10:38 +0000",
       "summary": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less than a month after researchers found th…",
       "source": "KrebsOnSecurity",
+      "category": "Cyber"
+    },
+    {
+      "title": "SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs",
+      "link": "https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html",
+      "published": "Wed, 19 Aug 2026 18:42:17 +0530",
+      "summary": "A previously unreported cyber espionage operation dubbed SilkParasite has been observed targeting government bodies in Central Asia. The intrusion set makes use of seven remote access tool (RAT) families, five of which have never been previ…",
+      "source": "The Hacker News",
+      "category": "Cyber"
+    },
+    {
+      "title": "Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P",
+      "link": "https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html",
+      "published": "Wed, 19 Aug 2026 17:04:28 +0530",
+      "summary": "Cybersecurity researchers at Hunt.io have disclosed details of a campaign that they say compromised more than 14,530 Dahua devices between June 17 and July 22, 2026, using credential attacks, two authentication-bypass flaws, and a peer-to-p…",
+      "source": "The Hacker News",
+      "category": "Cyber"
+    },
+    {
+      "title": "Phishing 3.0: The Fight Moves to Agent Versus Agent",
+      "link": "https://thehackernews.com/2026/08/phishing-30-fight-moves-to-agent-versus.html",
+      "published": "Wed, 19 Aug 2026 17:00:00 +0530",
+      "summary": "Most email defenses still do the job they did a decade ago. Scan the message, look for something malicious, block it. That worked when the danger sat in the payload, a bad link or an attachment. It stopped working when the danger moved into…",
+      "source": "The Hacker News",
       "category": "Cyber"
     },
     {
@@ -470,30 +494,6 @@
       "link": "https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html",
       "published": "Mon, 17 Aug 2026 23:11:06 +0530",
       "summary": "Cybersecurity researchers have traced the continued evolution of the Cavern (aka Cav3rn) command-and-control (C2) framework used by Iranian nation-state hackers in attacks targeting entities in Israel. Russian cybersecurity company Kaspersk…",
-      "source": "The Hacker News",
-      "category": "Cyber"
-    },
-    {
-      "title": "⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
-      "link": "https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html",
-      "published": "Mon, 17 Aug 2026 18:53:51 +0530",
-      "summary": "The expensive attacks are not always the clever ones. This week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain problems kept spreading farther than the origina…",
-      "source": "The Hacker News",
-      "category": "Cyber"
-    },
-    {
-      "title": "How MCP Servers Can Expose Enterprise Secrets",
-      "link": "https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html",
-      "published": "Mon, 17 Aug 2026 17:28:00 +0530",
-      "summary": "MCP servers can expose enterprise secrets through plaintext configuration files, over-permissioned access and prompt injection, often before security teams even know the server is running. As more organizations adopt AI agents into their sy…",
-      "source": "The Hacker News",
-      "category": "Cyber"
-    },
-    {
-      "title": "Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access",
-      "link": "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html",
-      "published": "Mon, 17 Aug 2026 16:22:34 +0530",
-      "summary": "Security researchers at SSD Secure Disclosure have published a two-stage exploit chain that achieves full Android kernel access on devices running Unisoc modem firmware through a VoLTE video call, with no fix from the chipset maker. The adv…",
       "source": "The Hacker News",
       "category": "Cyber"
     },
