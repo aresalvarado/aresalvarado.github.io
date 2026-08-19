@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19 18:29 UTC",
+  "generated_at": "2026-08-19 19:21 UTC",
   "items": [
     {
       "title": "LG to Ban Residential Proxies from Smart TV Apps",
@@ -8,6 +8,30 @@
       "summary": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less than a month after researchers found th…",
       "source": "KrebsOnSecurity",
       "category": "Cyber"
+    },
+    {
+      "title": "5 new ways to level up your learning with Search",
+      "link": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+      "published": "Wed, 19 Aug 2026 19:00:00 +0000",
+      "summary": "an illustrated image with icons and phrasing like \"Add Notebook\" and \"Ask Google\"",
+      "source": "Google Blog",
+      "category": "Tech"
+    },
+    {
+      "title": "Start the semester with one year of Gemini, on us",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/",
+      "published": "Wed, 19 Aug 2026 19:00:00 +0000",
+      "summary": "Text reading: \"Google Gemini\" and \"Claim your student plan for 1 year at no cost\"",
+      "source": "Google Blog",
+      "category": "Tech"
+    },
+    {
+      "title": "Back to School 2026",
+      "link": "https://blog.google/products-and-platforms/products/education/back-to-school-2026/",
+      "published": "Wed, 19 Aug 2026 19:00:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BTSBundleCollection_Hero.max-600x600.format-webp.webp\" />How Google tools can help students and educators this back-to-school season.",
+      "source": "Google Blog",
+      "category": "Tech"
     },
     {
       "title": "SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs",
@@ -154,22 +178,6 @@
       "category": "Tech"
     },
     {
-      "title": "How we built the new GPS on Pixel Watch 5",
-      "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5-gps/",
-      "published": "Wed, 12 Aug 2026 14:00:00 +0000",
-      "summary": "Man jogging wearing Pixel Watch 5",
-      "source": "Google Blog",
-      "category": "Tech"
-    },
-    {
-      "title": "Made by Google 2026",
-      "link": "https://blog.google/products-and-platforms/devices/pixel/made-by-google-2026/",
-      "published": "Wed, 12 Aug 2026 14:00:00 +0000",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Made_by_Google_2026_Collection_.max-600x600.format-webp_6XacQoy.webp\" />Check out the latest announcements about Pixel devices at Made by Google 2026.",
-      "source": "Google Blog",
-      "category": "Tech"
-    },
-    {
       "title": "Google’s most sophisticated foldable: Pixel 11 Pro Fold",
       "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/",
       "published": "Wed, 12 Aug 2026 14:00:00 +0000",
@@ -178,26 +186,18 @@
       "category": "Tech"
     },
     {
-      "title": "7 can’t-miss updates from our Pixel 11 launch",
-      "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-features/",
+      "title": "The Pixel 11 series: Your most personal Pixel yet",
+      "link": "https://blog.google/products-and-platforms/devices/pixel/google-pixel-11-pro-xl/",
       "published": "Wed, 12 Aug 2026 14:00:00 +0000",
-      "summary": "Thumbnail image of YouTube video for the launch of Pixel 11 Pro and Pixel 11 Pro XL",
+      "summary": "Close-up video of Pixel 11 Pro in Canyon",
       "source": "Google Blog",
       "category": "Tech"
     },
     {
-      "title": "Here’s your first look at the newest Pixel devices.",
-      "link": "https://blog.google/products-and-platforms/devices/pixel/new-pixel-devices-2026/",
+      "title": "Keep tabs on your valuables with Google Pixel Tag",
+      "link": "https://blog.google/products-and-platforms/devices/pixel/google-pixel-tag/",
       "published": "Wed, 12 Aug 2026 14:00:00 +0000",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/newest_Pixel_devices_social_v2.max-600x600.format-webp.webp\" />Here’s a first look at our new Pixel devices, including new Pixel 11 phones, Pixel Watch 5, and our fir…",
-      "source": "Google Blog",
-      "category": "Tech"
-    },
-    {
-      "title": "Here are 3 ways your Pixel just got even more helpful.",
-      "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-helpful-updates-features/",
-      "published": "Wed, 12 Aug 2026 14:00:00 +0000",
-      "summary": "Shakil Barkat, vice president of devices and services, shares his favorite Pixel 11 features",
+      "summary": "Pixel Tag attached to a keychain, resting inside a small trinket box.",
       "source": "Google Blog",
       "category": "Tech"
     },
