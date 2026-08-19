@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19 15:27 UTC",
+  "generated_at": "2026-08-19 16:26 UTC",
   "items": [
     {
       "title": "LG to Ban Residential Proxies from Smart TV Apps",
@@ -56,6 +56,14 @@
       "summary": "Text \"Google Presents The Small Brief\", above photos of Susan Credle, Jayanta Jenkins, and Tiffany Rolfe",
       "source": "Google Blog",
       "category": "Tech"
+    },
+    {
+      "title": "US charges Iranian hackers over $3.4 billion intellectual property theft",
+      "link": "https://www.bleepingcomputer.com/news/security/us-charges-iranian-hackers-over-34-billion-intellectual-property-theft/",
+      "published": "Wed, 19 Aug 2026 11:56:09 -0400",
+      "summary": "The U.S. has charged 17 Iranians, alleged members of a hacking-for-hire company called Mabna Institute, involved in years-long operations that stole data from American organizations. [...]",
+      "source": "BleepingComputer",
+      "category": "Cyber"
     },
     {
       "title": "Microsoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure",
@@ -518,14 +526,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/",
       "published": "Mon, 17 Aug 2026 15:12:39 -0400",
       "summary": "Pokémon Center is notifying customers in the United Kingdom and Germany that it suffered a third-party data breach after hackers stole customer personal and order information from third-party logistics provider CEVA Logistics. [...]",
-      "source": "BleepingComputer",
-      "category": "Cyber"
-    },
-    {
-      "title": "Microsoft confirms GitHub is down worldwide",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/",
-      "published": "Mon, 17 Aug 2026 10:47:08 -0400",
-      "summary": "GitHub is down for some users as a widespread outage is causing errors across the website, API, Actions, Pull Requests, and several other services. [...]",
       "source": "BleepingComputer",
       "category": "Cyber"
     },
