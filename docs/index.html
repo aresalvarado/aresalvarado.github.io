@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>News Dashboard</title>
+  <style>
+    :root{
+      --bg:#0b0f14; --card:#121826; --text:#e6edf3; --muted:#9aa4b2; --link:#7cc4ff;
+      --chip:#1f2a3a; --border:#223047;
+    }
+    @media (prefers-color-scheme: light){
+      :root{ --bg:#ffffff; --card:#f6f8fa; --text:#111827; --muted:#4b5563; --link:#0969da; --chip:#e5e7eb; --border:#d0d7de; }
+    }
+    body{ margin:0; font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; background:var(--bg); color:var(--text); }
+    header{ position:sticky; top:0; background:color-mix(in srgb, var(--bg) 90%, transparent); backdrop-filter: blur(8px);
+            border-bottom:1px solid var(--border); padding:14px 16px; }
+    .wrap{ max-width: 980px; margin: 0 auto; }
+    h1{ font-size: 18px; margin:0 0 10px 0; }
+    .controls{ display:flex; gap:10px; flex-wrap:wrap; align-items:center; }
+    input, select{
+      background:var(--card); color:var(--text); border:1px solid var(--border);
+      padding:10px 12px; border-radius:10px; outline:none;
+    }
+    input{ flex:1; min-width: 220px; }
+    .meta{ color:var(--muted); font-size: 12px; margin-top:8px; }
+    main{ padding: 16px; }
+    .item{ background:var(--card); border:1px solid var(--border); border-radius:12px; padding:12px 12px; margin-bottom:10px; }
+    .top{ display:flex; justify-content:space-between; gap:12px; align-items:baseline; }
+    a{ color:var(--link); text-decoration:none; }
+    a:hover{ text-decoration:underline; }
+    .chips{ display:flex; gap:8px; flex-wrap:wrap; margin-top:8px; }
+    .chip{ background:var(--chip); border:1px solid var(--border); color:var(--muted); font-size: 12px; padding:3px 8px; border-radius:999px; }
+    .small{ color:var(--muted); font-size: 12px; }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="wrap">
+      <h1>Cyber + Tech News</h1>
+      <div class="controls">
+        <input id="q" placeholder="Search titles…" />
+        <select id="cat">
+          <option value="all">All categories</option>
+        </select>
+        <select id="src">
+          <option value="all">All sources</option>
+        </select>
+      </div>
+      <div class="meta" id="meta">Loading…</div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <div id="list"></div>
+  </main>
+
+<script>
+let DATA = null;
+
+function uniq(arr){ return [...new Set(arr)].sort(); }
+
+function render() {
+  const q = document.getElementById("q").value.trim().toLowerCase();
+  const cat = document.getElementById("cat").value;
+  const src = document.getElementById("src").value;
+
+  const items = (DATA.items || []).filter(it => {
+    if (cat !== "all" && it.category !== cat) return false;
+    if (src !== "all" && it.source !== src) return false;
+    if (q && !(it.title || "").toLowerCase().includes(q)) return false;
+    return true;
+  });
+
+  const list = document.getElementById("list");
+  list.innerHTML = items.map(it => `
+    <div class="item">
+      <div class="top">
+        <div><a href="${it.link}" target="_blank" rel="noopener noreferrer">${it.title}</a></div>
+      </div>
+      <div class="chips">
+        <span class="chip">${it.category}</span>
+        <span class="chip">${it.source}</span>
+        <span class="chip">${it.published || ""}</span>
+      </div>
+      ${it.summary ? `<div class="small" style="margin-top:8px;">${it.summary}</div>` : ""}
+    </div>
+  `).join("") || `<div class="small">No matches.</div>`;
+
+  document.getElementById("meta").textContent =
+    `Updated: ${DATA.generated_at} • Showing ${items.length} items`;
+}
+
+async function init() {
+  const res = await fetch("./feeds.json", { cache: "no-store" });
+  DATA = await res.json();
+
+  const cats = uniq(DATA.items.map(i => i.category));
+  const srcs = uniq(DATA.items.map(i => i.source));
+
+  const catSel = document.getElementById("cat");
+  cats.forEach(c => {
+    const o = document.createElement("option");
+    o.value = c; o.textContent = c;
+    catSel.appendChild(o);
+  });
+
+  const srcSel = document.getElementById("src");
+  srcs.forEach(s => {
+    const o = document.createElement("option");
+    o.value = s; o.textContent = s;
+    srcSel.appendChild(o);
+  });
+
+  ["q","cat","src"].forEach(id => document.getElementById(id).addEventListener("input", render));
+  ["cat","src"].forEach(id => document.getElementById(id).addEventListener("change", render));
+  render();
+}
+init().catch(err => document.getElementById("meta").textContent = "Failed to load feeds.json: " + err);
+</script>
+</body>
+</html>
