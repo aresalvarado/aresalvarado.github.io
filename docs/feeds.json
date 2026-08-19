@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19 11:21 UTC",
+  "generated_at": "2026-08-19 12:38 UTC",
   "items": [
     {
       "title": "LG to Ban Residential Proxies from Smart TV Apps",
@@ -7,6 +7,22 @@
       "published": "Wed, 22 Jul 2026 01:10:38 +0000",
       "summary": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less than a month after researchers found th…",
       "source": "KrebsOnSecurity",
+      "category": "Cyber"
+    },
+    {
+      "title": "StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data",
+      "link": "https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html",
+      "published": "Wed, 19 Aug 2026 16:55:28 +0530",
+      "summary": "Cybersecurity researchers have flagged a global cybercrime operation that abuses thousands of hacked WordPress websites as infrastructure to disseminate malware, commandeer infected hosts, store stolen documents, screenshots, and activity l…",
+      "source": "The Hacker News",
+      "category": "Cyber"
+    },
+    {
+      "title": "Critical macOS, SharePoint, vCenter, and Microsoft IKE Flaws Under Active Exploitation",
+      "link": "https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html",
+      "published": "Wed, 19 Aug 2026 16:31:48 +0530",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four critical vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, stating they are being exploited in the wild. The shortcomings added to th…",
+      "source": "The Hacker News",
       "category": "Cyber"
     },
     {
@@ -23,6 +39,14 @@
       "published": "Wed, 19 Aug 2026 11:09:25 +0530",
       "summary": "A JavaServer Pages (JSP) web shell deployed following the exploitation of a critical security flaw in PTC Windchill and FlexPLM servers is specifically designed for the enterprise Product Lifecycle Management (PLM) software, according to ne…",
       "source": "The Hacker News",
+      "category": "Cyber"
+    },
+    {
+      "title": "Microsoft fixes known issue causing Windows Defender crashes",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-causing-windows-defender-crashes/",
+      "published": "Wed, 19 Aug 2026 07:14:28 -0400",
+      "summary": "Microsoft has resolved a bug that caused Windows Defender to crash after a recent security update, resulting in 0xc0000005 access violation errors on some affected systems. [...]",
+      "source": "BleepingComputer",
       "category": "Cyber"
     },
     {
@@ -490,22 +514,6 @@
       "category": "Cyber"
     },
     {
-      "title": "Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies",
-      "link": "https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html",
-      "published": "Mon, 17 Aug 2026 14:59:55 +0530",
-      "summary": "Cybersecurity researchers have flagged a previously undocumented Linux botnet family dubbed Evooo1Bot that derives its core functionality from the Mirai botnet source code and is equipped to turn internet-facing devices into SOCKS proxies. …",
-      "source": "The Hacker News",
-      "category": "Cyber"
-    },
-    {
-      "title": "Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware",
-      "link": "https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html",
-      "published": "Mon, 17 Aug 2026 13:06:19 +0530",
-      "summary": "Cybersecurity researchers have attributed the exploitation of a newly patched security flaw in Broadcom VMware vCenter to a suspected China-nexus advanced persistent threat (APT). The attacks involve the exploitation of CVE-2026-59310 (CVSS…",
-      "source": "The Hacker News",
-      "category": "Cyber"
-    },
-    {
       "title": "Microsoft confirms GitHub is down worldwide",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/",
       "published": "Mon, 17 Aug 2026 10:47:08 -0400",
@@ -518,14 +526,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/",
       "published": "Mon, 17 Aug 2026 10:00:10 -0400",
       "summary": "CVE-2026-54121 lets a standard domain user turn your Enterprise CA into a Domain Controller. The patch is the easy part. The lesson is standing privilege, implicit trust, and treating PKI as the Tier 0 identity infrastructure it has always …",
-      "source": "BleepingComputer",
-      "category": "Cyber"
-    },
-    {
-      "title": "Windows Server 2022 reaches end of mainstream support in 60 days",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/",
-      "published": "Mon, 17 Aug 2026 08:33:11 -0400",
-      "summary": "Microsoft has reminded IT administrators that Windows Server 2022 is rapidly approaching its mainstream end date of October 2026, when it will switch to extended support. [...]",
       "source": "BleepingComputer",
       "category": "Cyber"
     },
