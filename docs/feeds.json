@@ -1,0 +1,765 @@
+{
+  "generated_at": "2026-08-19 00:37 UTC",
+  "items": [
+    {
+      "title": "LG to Ban Residential Proxies from Smart TV Apps",
+      "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+      "published": "Wed, 22 Jul 2026 01:10:38 +0000",
+      "summary": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less than a month after researchers found th…",
+      "source": "KrebsOnSecurity",
+      "category": "Cyber"
+    },
+    {
+      "title": "Sharing between Pixel devices is now just a tap away.",
+      "link": "https://blog.google/products-and-platforms/platforms/android/tap-to-share-android/",
+      "published": "Wed, 12 Aug 2026 14:00:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tap_to_Share_social.max-600x600.format-webp.webp\" />Sharing between Android devices is even easier, starting with Pixel. Use Quick Share and tap to send contact info …",
+      "source": "Google Blog",
+      "category": "Tech"
+    },
+    {
+      "title": "How we built the new GPS on Pixel Watch 5",
+      "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5-gps/",
+      "published": "Wed, 12 Aug 2026 14:00:00 +0000",
+      "summary": "Man jogging wearing Pixel Watch 5",
+      "source": "Google Blog",
+      "category": "Tech"
+    },
+    {
+      "title": "Made by Google 2026",
+      "link": "https://blog.google/products-and-platforms/devices/pixel/made-by-google-2026/",
+      "published": "Wed, 12 Aug 2026 14:00:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Made_by_Google_2026_Collection_.max-600x600.format-webp_6XacQoy.webp\" />Check out the latest announcements about Pixel devices at Made by Google 2026.",
+      "source": "Google Blog",
+      "category": "Tech"
+    },
+    {
+      "title": "Google’s most sophisticated foldable: Pixel 11 Pro Fold",
+      "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/",
+      "published": "Wed, 12 Aug 2026 14:00:00 +0000",
+      "summary": "Video showing Pixel 11 Pro Fold, new features and upgrades",
+      "source": "Google Blog",
+      "category": "Tech"
+    },
+    {
+      "title": "7 can’t-miss updates from our Pixel 11 launch",
+      "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-features/",
+      "published": "Wed, 12 Aug 2026 14:00:00 +0000",
+      "summary": "Thumbnail image of YouTube video for the launch of Pixel 11 Pro and Pixel 11 Pro XL",
+      "source": "Google Blog",
+      "category": "Tech"
+    },
+    {
+      "title": "Here’s your first look at the newest Pixel devices.",
+      "link": "https://blog.google/products-and-platforms/devices/pixel/new-pixel-devices-2026/",
+      "published": "Wed, 12 Aug 2026 14:00:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/newest_Pixel_devices_social_v2.max-600x600.format-webp.webp\" />Here’s a first look at our new Pixel devices, including new Pixel 11 phones, Pixel Watch 5, and our fir…",
+      "source": "Google Blog",
+      "category": "Tech"
+    },
+    {
+      "title": "Here are 3 ways your Pixel just got even more helpful.",
+      "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-helpful-updates-features/",
+      "published": "Wed, 12 Aug 2026 14:00:00 +0000",
+      "summary": "Shakil Barkat, vice president of devices and services, shares his favorite Pixel 11 features",
+      "source": "Google Blog",
+      "category": "Tech"
+    },
+    {
+      "title": "New accessories for Pixel 11 phones are here.",
+      "link": "https://blog.google/products-and-platforms/devices/pixel/new-pixelsnap-accessories-cases-ring-stand/",
+      "published": "Wed, 12 Aug 2026 14:00:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Accessories.max-600x600.format-webp.webp\" />Google is rolling out new Pixel accessories as part of Made by Google",
+      "source": "Google Blog",
+      "category": "Tech"
+    },
+    {
+      "title": "Here’s what’s new with Pixel Buds Pro 2 and Pixel Buds 2a.",
+      "link": "https://blog.google/products-and-platforms/devices/pixel/google-pixel-buds-mbg-2026/",
+      "published": "Wed, 12 Aug 2026 14:00:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pixel_Buds_Pro_2_and_Pixel_Buds.max-600x600.format-webp.webp\" />Google is launching a new color and upgraded features for Pixel Buds Pro 2 and Pixel Buds 2a as part o…",
+      "source": "Google Blog",
+      "category": "Tech"
+    },
+    {
+      "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
+      "link": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
+      "published": "Wed, 08 Jul 2026 12:31:39 +0000",
+      "summary": "A cybersecurity startup dangling millions of dollars to acquire zero-day security vulnerabilities in popular software is run by a pair of far-right conspiracy theorists and convicted felons whose most recent ventures included fake intellige…",
+      "source": "KrebsOnSecurity",
+      "category": "Cyber"
+    },
+    {
+      "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
+      "link": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
+      "published": "Tue, 23 Jun 2026 16:12:49 +0000",
+      "summary": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Greater London area. The …",
+      "source": "KrebsOnSecurity",
+      "category": "Cyber"
+    },
+    {
+      "title": "Toward More Controllable AI Video Editing: An Early Research Exploration at Netflix",
+      "link": "https://netflixtechblog.com/toward-more-controllable-ai-video-editing-an-early-research-exploration-at-netflix-eb8160ed60a2?source=rss----2615bd06b42e---4",
+      "published": "Tue, 23 Jun 2026 00:31:01 GMT",
+      "summary": "<p>By <a href=\"https://www.linkedin.com/in/zhuoning-yuan/\">Zhuoning Yuan</a>, <a href=\"https://www.linkedin.com/in/tim-ta-ying-cheng-411857139/\">Ta-Ying Cheng</a>, <a href=\"https://www.linkedin.com/in/benjamin-klein-usa/\">Benjamin Klein</a>…",
+      "source": "Netflix TechBlog",
+      "category": "Tech"
+    },
+    {
+      "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps",
+      "link": "https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html",
+      "published": "Tue, 18 Aug 2026 23:17:22 +0530",
+      "summary": "Varonis Threat Labs has disclosed three vulnerabilities in Microsoft Copilot Personal that it said could allow a single click on a crafted link to silently pull data from connected apps and other information available to the victim's Copilo…",
+      "source": "The Hacker News",
+      "category": "Cyber"
+    },
+    {
+      "title": "Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets",
+      "link": "https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html",
+      "published": "Tue, 18 Aug 2026 23:14:05 +0530",
+      "summary": "Two critical vulnerabilities impacting MLflow, an open-source artificial intelligence (AI) platform, and FUXA, an open-source, web-based SCADA / HMI software built for operational technology (OT) and industrial automation, are witnessing ma…",
+      "source": "The Hacker News",
+      "category": "Cyber"
+    },
+    {
+      "title": "Ransom Busters Claims It Hacked Ransomware Servers, Asks Victims for Up to $60,000",
+      "link": "https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html",
+      "published": "Tue, 18 Aug 2026 22:28:16 +0530",
+      "summary": "A ransomware affiliate calling itself Ransom Busters has been spotted proactively sending emails to victim organizations and claims to delete stolen data from ransomware groups' servers in exchange for a fee ranging from $20,000 to $60,000.…",
+      "source": "The Hacker News",
+      "category": "Cyber"
+    },
+    {
+      "title": "Tap into the power of Gemini in Chrome on Android.",
+      "link": "https://blog.google/products-and-platforms/products/chrome/gemini-in-chrome-android-auto-browse/",
+      "published": "Tue, 18 Aug 2026 19:00:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Chrome_Chewy_Bowl_Static_1.2.max-600x600.format-webp.webp\" />Gemini in Chrome is now available to all Android users in the U.S.",
+      "source": "Google Blog",
+      "category": "Tech"
+    },
+    {
+      "title": "AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files",
+      "link": "https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html",
+      "published": "Tue, 18 Aug 2026 18:08:36 +0530",
+      "summary": "Security researchers at Anthropic and Switzerland's EPFL have demonstrated that self-propagating payloads can spread from one artificial intelligence (AI) agent to the next through the editable system prompt files that autonomous agent harn…",
+      "source": "The Hacker News",
+      "category": "Cyber"
+    },
+    {
+      "title": "TWINLOOT Abuses SharePoint and Teams to Steal Credentials and Move Across Networks",
+      "link": "https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html",
+      "published": "Tue, 18 Aug 2026 18:08:20 +0530",
+      "summary": "Cybersecurity researchers have disclosed details of a previously undocumented Python implant framework dubbed TWINLOOT. \"TWINLOOT is a modular, PyArmor-hardened Python implant designed to operate its entire command-and-control infrastructur…",
+      "source": "The Hacker News",
+      "category": "Cyber"
+    },
+    {
+      "title": "Try 4 new interactive BTS experiences inside the Gemini app",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/four-new-interactive-bts-experiences/",
+      "published": "Tue, 18 Aug 2026 17:30:00 +0000",
+      "summary": "BTS members around the text \"Look what you can do\" and \"Unlock BTS\" in a Google search bar",
+      "source": "Google Blog",
+      "category": "Tech"
+    },
+    {
+      "title": "One Attacker Has Scraped Both Salesforce and ServiceNow Portals Since 2025",
+      "link": "https://thehackernews.com/2026/08/one-attacker-has-scraped-both.html",
+      "published": "Tue, 18 Aug 2026 17:00:00 +0530",
+      "summary": "A single piece of infrastructure has been pulling records out of Salesforce and ServiceNow customer portals across multiple industries for more than a year, according to research published this week by agent security platform Reco. The acti…",
+      "source": "The Hacker News",
+      "category": "Cyber"
+    },
+    {
+      "title": "16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets",
+      "link": "https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html",
+      "published": "Tue, 18 Aug 2026 16:50:00 +0530",
+      "summary": "Cybersecurity researchers have flagged a new typosquatting campaign targeting RubyGems users with a Windows-based information stealer. OpenSourceMalware, which discovered the activity on August 15, 2026, is tracking the threat under the mon…",
+      "source": "The Hacker News",
+      "category": "Cyber"
+    },
+    {
+      "title": "Comcast turns your Xfinity WiFi into a home motion detector",
+      "link": "https://www.bleepingcomputer.com/news/security/comcast-turns-your-xfinity-wifi-into-a-home-motion-detector/",
+      "published": "Tue, 18 Aug 2026 16:14:58 -0400",
+      "summary": "Comcast is promoting WiFi-based motion detection as a part of its new Xfinity Shield home protection platform, allowing routers and wireless devices to detect people moving through a home without cameras or motion sensors. [...]",
+      "source": "BleepingComputer",
+      "category": "Cyber"
+    },
+    {
+      "title": "Keep your SAT prep on track with practice tests in Gemini.",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/how-to-take-practice-sat/",
+      "published": "Tue, 18 Aug 2026 16:00:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SAT_tests_in_Gemini_social.max-600x600.format-webp.webp\" />Google’s Gemini app offers full-length practice SAT tests at no cost. Here’s how to take these SAT practice…",
+      "source": "Google Blog",
+      "category": "Tech"
+    },
+    {
+      "title": "Ask a Scientist: How can researchers use AI to predict a flood?",
+      "link": "https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai/",
+      "published": "Tue, 18 Aug 2026 16:00:00 +0000",
+      "summary": "On the left: A blue background with black text saying 'Google' and 'Ask a scientist about flood forecasting.' On the right: Two Googlers in a virtual interview about flood forecasting",
+      "source": "Google Blog",
+      "category": "Tech"
+    },
+    {
+      "title": "SafePal Hardware Wallet Maker Says Flaw Exposed Data of Nearly 40,000 Customers",
+      "link": "https://thehackernews.com/2026/08/safepal-hardware-wallet-maker-says-flaw.html",
+      "published": "Tue, 18 Aug 2026 14:40:45 +0530",
+      "summary": "SafePal has disclosed that an authorization flaw in an order-tracking plug-in exposed the names, email addresses, shipping addresses, phone numbers, and purchase details of approximately 39,798 customers. The hardware wallet maker said all …",
+      "source": "The Hacker News",
+      "category": "Cyber"
+    },
+    {
+      "title": "Clop created custom web shell for Windchill data theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/",
+      "published": "Tue, 18 Aug 2026 13:29:51 -0400",
+      "summary": "A custom Java web shell likely linked to the Clop ransomware gang was designed specifically for PTC Windchill and FlexPLM servers, with built-in features to decrypt credentials, enumerate file repositories, and steal files. [...]",
+      "source": "BleepingComputer",
+      "category": "Cyber"
+    },
+    {
+      "title": "CISA Flags Actively Exploited Ray Flaw That Can Trigger Browser-Based RCE",
+      "link": "https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html",
+      "published": "Tue, 18 Aug 2026 12:04:20 +0530",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a critical flaw impacting Ray to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. Ray is an open-source, Python-nativ…",
+      "source": "The Hacker News",
+      "category": "Cyber"
+    },
+    {
+      "title": "Your Controls Block Known Attacks. What About the Behavior?",
+      "link": "https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/",
+      "published": "Tue, 18 Aug 2026 10:01:11 -0400",
+      "summary": "Security controls can block a familiar attack method while missing quieter ways to achieve the same objective. Picus Security's Blue Report 2026 shows how prevention rates can vary dramatically by technique and why behavioral testing is nee…",
+      "source": "BleepingComputer",
+      "category": "Cyber"
+    },
+    {
+      "title": "Operation Blue Skies: Reducing aviation climate impact with AI",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/blue-skies/",
+      "published": "Tue, 18 Aug 2026 09:00:00 +0000",
+      "summary": "A high-altitude view of a commercial airplane flying above a layer of clouds, with a distinct white contrail trailing behind it.",
+      "source": "Google Blog",
+      "category": "Tech"
+    },
+    {
+      "title": "Microsoft tests faster Windows File Explorer, new context menu",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-faster-windows-explorer-customizable-context-menu/",
+      "published": "Tue, 18 Aug 2026 07:14:28 -0400",
+      "summary": "Microsoft has started testing a faster File Explorer and a less cluttered and more customizable context menu in Windows 11 preview builds rolling out to Insiders this week. [...]",
+      "source": "BleepingComputer",
+      "category": "Cyber"
+    },
+    {
+      "title": "CISA: Windows Task Host flaw now exploited by ransomware gangs",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/",
+      "published": "Tue, 18 Aug 2026 06:32:16 -0400",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a high-severity Windows Task Host vulnerability that was flagged as actively exploited in April. [...]",
+      "source": "BleepingComputer",
+      "category": "Cyber"
+    },
+    {
+      "title": "Microsoft confirms outage affecting search in Microsoft 365 apps",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-bug-behind-microsoft-365-search-issues/",
+      "published": "Tue, 18 Aug 2026 05:24:49 -0400",
+      "summary": "Microsoft says some users are experiencing issues searching in Microsoft 365 apps, including Outlook on the web, Outlook desktop, SharePoint Online, and OneDrive. [...]",
+      "source": "BleepingComputer",
+      "category": "Cyber"
+    },
+    {
+      "title": "Microsoft starts removing WMIC tool used by cybercriminals",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wmic-lolbin-tool-in-windows-11-beta-builds/",
+      "published": "Tue, 18 Aug 2026 04:12:08 -0400",
+      "summary": "Microsoft announced that it removed the Windows Management Instrumentation Command-line (WMIC) tool from Windows 11 24H2 and 25H2, as well as from Windows 11 beta builds released this week. [...]",
+      "source": "BleepingComputer",
+      "category": "Cyber"
+    },
+    {
+      "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
+      "link": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html",
+      "published": "Tue, 18 Aug 2026 02:33:04 +0530",
+      "summary": "GitLab has released security updates to address a critical vulnerability impacting its Community Edition (CE) and Enterprise Edition (EE) software that, under certain conditions, could allow an unauthenticated attacker to remotely modify or…",
+      "source": "The Hacker News",
+      "category": "Cyber"
+    },
+    {
+      "title": "Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection",
+      "link": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html",
+      "published": "Tue, 18 Aug 2026 00:14:17 +0530",
+      "summary": "Cybersecurity researchers at Wiz have disclosed a new GitHub Actions workflow injection vulnerability in Snowflake's public snowflakedb/snowflake-connector-net repository that it said could be exploited through a crafted GitHub issue to exe…",
+      "source": "The Hacker News",
+      "category": "Cyber"
+    },
+    {
+      "title": "Microsoft Patches a Record 570 Security Flaws",
+      "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+      "published": "Tue, 14 Jul 2026 19:22:42 +0000",
+      "summary": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesd…",
+      "source": "KrebsOnSecurity",
+      "category": "Cyber"
+    },
+    {
+      "title": "Microsoft Plugs Nearly 400 Security Holes",
+      "link": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
+      "published": "Tue, 11 Aug 2026 21:28:35 +0000",
+      "summary": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly deta…",
+      "source": "KrebsOnSecurity",
+      "category": "Cyber"
+    },
+    {
+      "title": "GenRec: Towards LLM-Native Recommendation at Netflix",
+      "link": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3?source=rss----2615bd06b42e---4",
+      "published": "Thu, 30 Jul 2026 20:10:15 GMT",
+      "summary": "<p>Authors: <a href=\"https://www.linkedin.com/in/ying-li-94016850/\">Ying Li</a>, <a href=\"https://www.linkedin.com/in/arjunra0/\">Arjun Rao</a>, <a href=\"https://www.linkedin.com/in/shradha-sehgal/\">Shradha Sehgal</a></p><h3>Introduction</h3…",
+      "source": "Netflix TechBlog",
+      "category": "Tech"
+    },
+    {
+      "title": "Read This Before You Buy That TV Streaming Stick",
+      "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+      "published": "Thu, 30 Jul 2026 16:49:00 +0000",
+      "summary": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connection out to strangers. …",
+      "source": "KrebsOnSecurity",
+      "category": "Cyber"
+    },
+    {
+      "title": "Introducing Gemini 3.7 Flash",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+      "published": "Thu, 13 Aug 2026 17:00:00 +0000",
+      "summary": "Spark icon next to the text \"Gemini 3.7 Flash\", all on a light blue backgorund",
+      "source": "Google Blog",
+      "category": "Tech"
+    },
+    {
+      "title": "Bring your spreadsheet data to life with Sheets canvas",
+      "link": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+      "published": "Thu, 13 Aug 2026 16:45:00 +0000",
+      "summary": "The video shows Sheets canvas in action.",
+      "source": "Google Blog",
+      "category": "Tech"
+    },
+    {
+      "title": "Stay present while taking pictures with Magic Capture on Pixel 11.",
+      "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-magic-capture/",
+      "published": "Thu, 13 Aug 2026 16:00:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MagicCapture.max-600x600.format-webp.webp\" />Pixel 11’s new Magic Capture feature finds the best shots from dynamic scenes so you don’t miss precious moments trying t…",
+      "source": "Google Blog",
+      "category": "Tech"
+    },
+    {
+      "title": "Get updates while your Pixel 11 Pro is face down with HiLight.",
+      "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-hilight/",
+      "published": "Thu, 13 Aug 2026 16:00:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KW_G_HiLite.max-600x600.format-webp.webp\" />HiLight, a new Pixel 11 Pro feature, gently glows to notify you of timely updates — keeping you informed when your phone i…",
+      "source": "Google Blog",
+      "category": "Tech"
+    },
+    {
+      "title": "Omni experts share what excites them most about the model.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-experts-roundtable/",
+      "published": "Thu, 13 Aug 2026 13:30:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Omni_experts_social.max-600x600.format-webp.webp\" />We interviewed some of the experts behind Gemini Omni to hear what excites them most about the model.",
+      "source": "Google Blog",
+      "category": "Tech"
+    },
+    {
+      "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
+      "link": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
+      "published": "Thu, 06 Aug 2026 17:00:56 +0000",
+      "summary": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud data storage …",
+      "source": "KrebsOnSecurity",
+      "category": "Cyber"
+    },
+    {
+      "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
+      "link": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
+      "published": "Thu, 02 Jul 2026 19:27:33 +0000",
+      "summary": "The Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling residential proxy service operated by the publicly-traded Israeli company Alarum Technolo…",
+      "source": "KrebsOnSecurity",
+      "category": "Cyber"
+    },
+    {
+      "title": "SAP Commerce Cloud CVE-2026-58231 Targeted in Exploitation Attempts Days After Patch",
+      "link": "https://thehackernews.com/2026/08/sap-commerce-cloud-cve-2026-58231.html",
+      "published": "Sat, 15 Aug 2026 14:08:46 +0530",
+      "summary": "A maximum-severity security vulnerability impacting SAP Commerce Cloud is witnessing active exploitation efforts. The vulnerability, tracked as CVE-2026-58231, is rated 10.0 on the CVSS scoring system. It relates to an instance of insuffici…",
+      "source": "The Hacker News",
+      "category": "Cyber"
+    },
+    {
+      "title": "Apple macOS Screen Sharing Flaw Exploited on Internet-Exposed Macs to Install Monero Miner",
+      "link": "https://thehackernews.com/2026/08/apple-macos-screen-sharing-flaw.html",
+      "published": "Sat, 15 Aug 2026 12:54:04 +0530",
+      "summary": "A recently patched security flaw in Apple macOS has come under active exploitation in the wild to deploy a cryptocurrency miner, the Netherlands National Cyber Security Centre (NCSC-NL) has warned. The vulnerability in question is CVE-2026-…",
+      "source": "The Hacker News",
+      "category": "Cyber"
+    },
+    {
+      "title": "GenPage: Towards End-to-End Generative Homepage Construction at Netflix",
+      "link": "https://netflixtechblog.com/genpage-towards-end-to-end-generative-homepage-construction-at-netflix-77146fba8a08?source=rss----2615bd06b42e---4",
+      "published": "Mon, 29 Jun 2026 13:01:02 GMT",
+      "summary": "<p>Authors: <a href=\"https://www.linkedin.com/in/lequn-luke-wang-9226b2129/\">Lequn Wang</a>, J<a href=\"https://www.linkedin.com/in/jiangwei-pan-66a62a13/\">iangwei Pan</a>, and <a href=\"https://www.linkedin.com/in/linasbaltrunas/\">Linas Balt…",
+      "source": "Netflix TechBlog",
+      "category": "Tech"
+    },
+    {
+      "title": "How Netflix Simplified Batch Compute with Kueue",
+      "link": "https://netflixtechblog.com/how-netflix-simplified-batch-compute-with-kueue-87860682629c?source=rss----2615bd06b42e---4",
+      "published": "Mon, 22 Jun 2026 21:35:01 GMT",
+      "summary": "<p>By <a href=\"https://www.linkedin.com/in/alvinbao/\">Alvin Bao</a>, <a href=\"https://www.linkedin.com/in/alex-petrov-vt/\">Alex Petrov</a>, <a href=\"https://www.linkedin.com/in/jennifernlai/\">Jennifer Lai</a>, <a href=\"https://www.linkedin.…",
+      "source": "Netflix TechBlog",
+      "category": "Tech"
+    },
+    {
+      "title": "Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads",
+      "link": "https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html",
+      "published": "Mon, 17 Aug 2026 23:52:09 +0530",
+      "summary": "A critical security flaw has been disclosed in Forminator Forms, a WordPress plugin with more than 600,000 active installations, that could be exploited to achieve arbitrary code execution on susceptible sites. The vulnerability, tracked as…",
+      "source": "The Hacker News",
+      "category": "Cyber"
+    },
+    {
+      "title": "Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic",
+      "link": "https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html",
+      "published": "Mon, 17 Aug 2026 23:11:06 +0530",
+      "summary": "Cybersecurity researchers have traced the continued evolution of the Cavern (aka Cav3rn) command-and-control (C2) framework used by Iranian nation-state hackers in attacks targeting entities in Israel. Russian cybersecurity company Kaspersk…",
+      "source": "The Hacker News",
+      "category": "Cyber"
+    },
+    {
+      "title": "⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
+      "link": "https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html",
+      "published": "Mon, 17 Aug 2026 18:53:51 +0530",
+      "summary": "The expensive attacks are not always the clever ones. This week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain problems kept spreading farther than the origina…",
+      "source": "The Hacker News",
+      "category": "Cyber"
+    },
+    {
+      "title": "How MCP Servers Can Expose Enterprise Secrets",
+      "link": "https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html",
+      "published": "Mon, 17 Aug 2026 17:28:00 +0530",
+      "summary": "MCP servers can expose enterprise secrets through plaintext configuration files, over-permissioned access and prompt injection, often before security teams even know the server is running. As more organizations adopt AI agents into their sy…",
+      "source": "The Hacker News",
+      "category": "Cyber"
+    },
+    {
+      "title": "Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access",
+      "link": "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html",
+      "published": "Mon, 17 Aug 2026 16:22:34 +0530",
+      "summary": "Security researchers at SSD Secure Disclosure have published a two-stage exploit chain that achieves full Android kernel access on devices running Unisoc modem firmware through a VoLTE video call, with no fix from the chipset maker. The adv…",
+      "source": "The Hacker News",
+      "category": "Cyber"
+    },
+    {
+      "title": "Hacker claims 3.6 million Azure account records stolen from major companies",
+      "link": "https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/",
+      "published": "Mon, 17 Aug 2026 15:35:01 -0400",
+      "summary": "A threat actor is selling employee databases allegedly stolen from the Microsoft Azure infrastructure of multiple Fortune 500 companies after gaining access using compromised credentials. [...]",
+      "source": "BleepingComputer",
+      "category": "Cyber"
+    },
+    {
+      "title": "Pokémon Center data breach exposes customer info, cancels some orders",
+      "link": "https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/",
+      "published": "Mon, 17 Aug 2026 15:12:39 -0400",
+      "summary": "Pokémon Center is notifying customers in the United Kingdom and Germany that it suffered a third-party data breach after hackers stole customer personal and order information from third-party logistics provider CEVA Logistics. [...]",
+      "source": "BleepingComputer",
+      "category": "Cyber"
+    },
+    {
+      "title": "Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies",
+      "link": "https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html",
+      "published": "Mon, 17 Aug 2026 14:59:55 +0530",
+      "summary": "Cybersecurity researchers have flagged a previously undocumented Linux botnet family dubbed Evooo1Bot that derives its core functionality from the Mirai botnet source code and is equipped to turn internet-facing devices into SOCKS proxies. …",
+      "source": "The Hacker News",
+      "category": "Cyber"
+    },
+    {
+      "title": "Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware",
+      "link": "https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html",
+      "published": "Mon, 17 Aug 2026 13:06:19 +0530",
+      "summary": "Cybersecurity researchers have attributed the exploitation of a newly patched security flaw in Broadcom VMware vCenter to a suspected China-nexus advanced persistent threat (APT). The attacks involve the exploitation of CVE-2026-59310 (CVSS…",
+      "source": "The Hacker News",
+      "category": "Cyber"
+    },
+    {
+      "title": "Microsoft confirms GitHub is down worldwide",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/",
+      "published": "Mon, 17 Aug 2026 10:47:08 -0400",
+      "summary": "GitHub is down for some users as a widespread outage is causing errors across the website, API, Actions, Pull Requests, and several other services. [...]",
+      "source": "BleepingComputer",
+      "category": "Cyber"
+    },
+    {
+      "title": "Certighost and the Privilege Hiding in Your Certificate Authority",
+      "link": "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/",
+      "published": "Mon, 17 Aug 2026 10:00:10 -0400",
+      "summary": "CVE-2026-54121 lets a standard domain user turn your Enterprise CA into a Domain Controller. The patch is the easy part. The lesson is standing privilege, implicit trust, and treating PKI as the Tier 0 identity infrastructure it has always …",
+      "source": "BleepingComputer",
+      "category": "Cyber"
+    },
+    {
+      "title": "Windows Server 2022 reaches end of mainstream support in 60 days",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/",
+      "published": "Mon, 17 Aug 2026 08:33:11 -0400",
+      "summary": "Microsoft has reminded IT administrators that Windows Server 2022 is rapidly approaching its mainstream end date of October 2026, when it will switch to extended support. [...]",
+      "source": "BleepingComputer",
+      "category": "Cyber"
+    },
+    {
+      "title": "Get closer to the game with Gemini and Pixel",
+      "link": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+      "published": "Mon, 17 Aug 2026 08:00:00 +0000",
+      "summary": "Low-angle view of a soccer player kicking a ball mid-air against a bright blue sky, with grass flying from their cleats.",
+      "source": "Google Blog",
+      "category": "Tech"
+    },
+    {
+      "title": "Philips and GE investigating Clop ransomware data theft claims",
+      "link": "https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/",
+      "published": "Mon, 17 Aug 2026 07:25:02 -0400",
+      "summary": "Tech giants General Electric (GE) and Philips have also confirmed they're investigating claims that the Clop ransomware gang breached their systems and stole data. [...]",
+      "source": "BleepingComputer",
+      "category": "Cyber"
+    },
+    {
+      "title": "French tax authority data breach affects 678,000 individuals",
+      "link": "https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/",
+      "published": "Mon, 17 Aug 2026 06:09:48 -0400",
+      "summary": "The French Ministry of the Economy and Finance has disclosed a data breach after an attacker accessed the General Directorate of Public Finances (DGFiP) systems and stole data belonging to 678,000 individuals. [...]",
+      "source": "BleepingComputer",
+      "category": "Cyber"
+    },
+    {
+      "title": "Microsoft working on Defender patch for ShieldBreak zero-day",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-working-on-defender-patch-for-shieldbreak-zero-day/",
+      "published": "Mon, 17 Aug 2026 05:05:33 -0400",
+      "summary": "Microsoft is working on a security patch for the \"ShieldBreak\" zero-day vulnerability disclosed last week by security researcher \"Nightmare Eclipse\" and now tracked as CVE-2026-69414. [...]",
+      "source": "BleepingComputer",
+      "category": "Cyber"
+    },
+    {
+      "title": "Building Service Topology at Scale: Architecture, Challenges, and Lessons Learned",
+      "link": "https://netflixtechblog.com/building-service-topology-at-scale-architecture-challenges-and-lessons-learned-f4b792f3f0d8?source=rss----2615bd06b42e---4",
+      "published": "Mon, 13 Jul 2026 22:44:11 GMT",
+      "summary": "<p><em>By </em><a href=\"https://www.linkedin.com/in/parth-jain-8a09abb6/\"><em>Parth Jain</em></a>, <a href=\"https://www.linkedin.com/in/raskuma/\"><em>Rakesh Sukumar</em></a><em>, </em><a href=\"https://www.linkedin.com/in/yingwu-zhao-6203741…",
+      "source": "Netflix TechBlog",
+      "category": "Tech"
+    },
+    {
+      "title": "Lessons Learned from CISA’s Recent GitHub Leak",
+      "link": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
+      "published": "Mon, 13 Jul 2026 15:03:28 +0000",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almos…",
+      "source": "KrebsOnSecurity",
+      "category": "Cyber"
+    },
+    {
+      "title": "Modeling Device Capabilities for Analytics",
+      "link": "https://netflixtechblog.com/modeling-device-capabilities-for-analytics-e7607acebde8?source=rss----2615bd06b42e---4",
+      "published": "Fri, 31 Jul 2026 16:01:02 GMT",
+      "summary": "<p>by <a href=\"https://www.linkedin.com/in/aarti-laddha-70666557/\">Aarti Laddha</a>, <a href=\"https://www.linkedin.com/in/richardjcool/\">Richard Diaz-Cool</a>, <a href=\"https://www.linkedin.com/in/rishikaidnani/\">Rishika Idnani</a>, <a href…",
+      "source": "Netflix TechBlog",
+      "category": "Tech"
+    },
+    {
+      "title": "The Data Canary: How Netflix Validates Catalog Metadata",
+      "link": "https://netflixtechblog.com/the-data-canary-how-netflix-validates-catalog-metadata-18b699d58e36?source=rss----2615bd06b42e---4",
+      "published": "Fri, 19 Jun 2026 23:54:17 GMT",
+      "summary": "<p>By <a href=\"https://www.linkedin.com/in/celina-amados/\">Celina Amados</a></p><p><em>At Netflix, our catalog metadata is crucial to our member experience, and a single corrupted data state can impact millions of viewers immediately. To pr…",
+      "source": "Netflix TechBlog",
+      "category": "Tech"
+    },
+    {
+      "title": "Data Projects: Managing Data Assets at Netflix Scale",
+      "link": "https://netflixtechblog.com/data-projects-managing-data-assets-at-netflix-scale-7ca25888591e?source=rss----2615bd06b42e---4",
+      "published": "Fri, 19 Jun 2026 23:54:00 GMT",
+      "summary": "<h4><em>By </em><a href=\"https://www.linkedin.com/in/amer-hesson-0886a5a5/\"><em>Amer Hesson</em></a><em>, </em><a href=\"https://www.linkedin.com/in/mayworm/\"><em>Marcelo Mayworm</em></a><em>, </em><a href=\"https://www.linkedin.com/in/james-…",
+      "source": "Netflix TechBlog",
+      "category": "Tech"
+    },
+    {
+      "title": "In-House LLM Serving at Netflix",
+      "link": "https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c?source=rss----2615bd06b42e---4",
+      "published": "Fri, 17 Jul 2026 21:32:39 GMT",
+      "summary": "<p><em>By AI Platform’s Model Runtime team and Inference team</em></p><h3>Introduction</h3><p>Most organizations consume LLMs through hosted APIs. Netflix went further — we run the full stack ourselves, from model deployment through inferen…",
+      "source": "Netflix TechBlog",
+      "category": "Tech"
+    },
+    {
+      "title": "Who’s Tracking You? Use This New Service to Find Out",
+      "link": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
+      "published": "Fri, 14 Aug 2026 11:24:35 +0000",
+      "summary": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditional…",
+      "source": "KrebsOnSecurity",
+      "category": "Cyber"
+    },
+    {
+      "title": "How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC…",
+      "link": "https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607?source=rss----2615bd06b42e---4",
+      "published": "Fri, 07 Aug 2026 16:01:02 GMT",
+      "summary": "<h3>How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC execution API</h3><p>Authors: <a href=\"https://www.linkedin.com/in/nilesh-mishra-56443275/\">Nilesh Mishra</a> and <a href=\"https://www.linked…",
+      "source": "Netflix TechBlog",
+      "category": "Tech"
+    },
+    {
+      "title": "Apple announces changes for apps in the European Union",
+      "link": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
+      "published": "2026-08-18T15:59:46.948Z",
+      "summary": "Apple today announced changes to its business terms for apps in the European Union, following close collaboration with the European Commission.",
+      "source": "Apple Newsroom",
+      "category": "Tech"
+    },
+    {
+      "title": "Apple opens Advanced Manufacturing Center in Houston",
+      "link": "https://www.apple.com/newsroom/2026/08/apple-opens-advanced-manufacturing-center-in-houston/",
+      "published": "2026-08-13T18:30:29.099Z",
+      "summary": "Apple opened its new Advanced Manufacturing Center in Houston, offering free training and educational sessions for small- and medium-sized businesses.",
+      "source": "Apple Newsroom",
+      "category": "Tech"
+    },
+    {
+      "title": "Apple Arcade levels up with Block Blast!+ and Art of Fauna: Cozy Puzzles+",
+      "link": "https://www.apple.com/newsroom/2026/08/apple-arcade-levels-up-with-block-blast-plus-and-art-of-fauna-cozy-puzzles-plus/",
+      "published": "2026-08-11T13:59:21.581Z",
+      "summary": "Apple Arcade upgrades its catalog of hit puzzle games with Block Blast+ and Art of Fauna: Cozy Puzzles+.",
+      "source": "Apple Newsroom",
+      "category": "Tech"
+    },
+    {
+      "title": "Apple, MLB announce September “Friday Night Baseball” schedule",
+      "link": "https://www.apple.com/newsroom/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule/",
+      "published": "2026-08-10T14:59:21.977Z",
+      "summary": "Apple and Major League Baseball unveiled the September schedule for “Friday Night Baseball.”",
+      "source": "Apple Newsroom",
+      "category": "Tech"
+    },
+    {
+      "title": "Leagues Cup kicks off tomorrow, August 4, on Apple TV",
+      "link": "https://www.apple.com/newsroom/2026/08/leagues-cup-kicks-off-tomorrow-august-4-on-apple-tv/",
+      "published": "2026-08-03T14:59:10.761Z",
+      "summary": "The Concacaf-sanctioned competition featuring 18 clubs from Major League Soccer and 18 clubs from Liga MX — kicks off tomorrow, August 4, on Apple TV.",
+      "source": "Apple Newsroom",
+      "category": "Tech"
+    },
+    {
+      "title": "Apple reports third quarter results",
+      "link": "https://www.apple.com/newsroom/2026/07/apple-reports-third-quarter-results/",
+      "published": "2026-07-30T20:30:21.672Z",
+      "summary": "Apple today announced financial results for its fiscal 2026 third quarter ended June 27, 2026.",
+      "source": "Apple Newsroom",
+      "category": "Tech"
+    },
+    {
+      "title": "Apple Upgrade launches in the United States",
+      "link": "https://www.apple.com/newsroom/2026/07/apple-upgrade-launches-in-the-united-states/",
+      "published": "2026-07-28T12:20:23.616Z",
+      "summary": "Apple Upgrade — a new hardware leasing program — is now available on the Apple Store online, in the Apple Store app, and at Apple Store locations in the United States.",
+      "source": "Apple Newsroom",
+      "category": "Tech"
+    },
+    {
+      "title": "Apple Maps to power navigation experience for Ford UEV Platform",
+      "link": "https://www.apple.com/newsroom/2026/07/apple-maps-to-power-navigation-experience-for-ford-uev-platform/",
+      "published": "2026-07-23T13:00:06.211Z",
+      "summary": "Apple and Ford announced Apple Maps will be integrated directly into Ford’s UEV Platform through the MapKit for Automotive SDK.",
+      "source": "Apple Newsroom",
+      "category": "Tech"
+    },
+    {
+      "title": "Major League Soccer returns to Apple TV tomorrow",
+      "link": "https://www.apple.com/newsroom/2026/07/major-league-soccer-returns-to-apple-tv-tomorrow/",
+      "published": "2026-07-15T14:59:11.792Z",
+      "summary": "Following a monthlong break for the FIFA World Cup, Major League Soccer returns to Apple TV tomorrow, July 16.",
+      "source": "Apple Newsroom",
+      "category": "Tech"
+    },
+    {
+      "title": "Madden NFL 27 Arcade Edition brings gridiron action to Apple Arcade on August 6",
+      "link": "https://www.apple.com/newsroom/2026/07/madden-nfl-27-arcade-edition-brings-gridiron-action-to-apple-arcade-on-august-6/",
+      "published": "2026-07-14T13:59:25.392Z",
+      "summary": "Apple Arcade grows its roster of hit sports games with the addition of EA SPORTS Madden NFL 27 and more coming in August.",
+      "source": "Apple Newsroom",
+      "category": "Tech"
+    },
+    {
+      "title": "Apple and Major League Baseball announce August “Friday Night Baseball” schedule",
+      "link": "https://www.apple.com/newsroom/2026/07/apple-and-major-league-baseball-announce-august-friday-night-baseball-schedule/",
+      "published": "2026-07-09T15:59:17.613Z",
+      "summary": "Apple and Major League Baseball unveiled the August schedule for “Friday Night Baseball,” the weekly doubleheader streaming every Friday on Apple TV.",
+      "source": "Apple Newsroom",
+      "category": "Tech"
+    },
+    {
+      "title": "Apple scores record 89 Emmy Award nominations",
+      "link": "https://www.apple.com/newsroom/2026/07/apple-scores-record-89-emmy-award-nominations/",
+      "published": "2026-07-09T00:42:00.573Z",
+      "summary": "Apple scored a historic 89 nominations across 15 programs for the 78th Primetime Emmy Awards.",
+      "source": "Apple Newsroom",
+      "category": "Tech"
+    },
+    {
+      "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
+      "link": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
+      "published": "2026-07-08T10:00:13.748Z",
+      "summary": "Apple announced a new six-year commitment with Broadcom to design and produce custom silicon components and cutting-edge wireless connectivity technologies.",
+      "source": "Apple Newsroom",
+      "category": "Tech"
+    },
+    {
+      "title": "Apple Creator Studio gets smarter, faster, and more connected",
+      "link": "https://www.apple.com/newsroom/2026/06/apple-creator-studio-gets-smarter-faster-and-more-connected/",
+      "published": "2026-06-30T16:59:24.233Z",
+      "summary": "Apple today introduced power-packed updates to Apple Creator Studio, a groundbreaking collection of creative apps.",
+      "source": "Apple Newsroom",
+      "category": "Tech"
+    },
+    {
+      "title": "Apple announces changes to iOS in Brazil",
+      "link": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
+      "published": "2026-06-18T14:59:41.587Z",
+      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
+      "source": "Apple Newsroom",
+      "category": "Tech"
+    },
+    {
+      "title": "Apple unveils innovative features and intelligence experiences across services",
+      "link": "https://www.apple.com/newsroom/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/",
+      "published": "2026-06-09T13:00:15.876Z",
+      "summary": "With the 2027 software releases coming this fall, Apple is bringing powerful new features to services users.",
+      "source": "Apple Newsroom",
+      "category": "Tech"
+    },
+    {
+      "title": "Apple aids app development with new intelligence frameworks and advanced tools",
+      "link": "https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/",
+      "published": "2026-06-08T21:00:15.643Z",
+      "summary": "Apple today introduced new intelligence capabilities, expanded productivity features in Xcode, and platform improvements.",
+      "source": "Apple Newsroom",
+      "category": "Tech"
+    },
+    {
+      "title": "Apple unveils next generation of Apple Intelligence, Siri AI, and more",
+      "link": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/",
+      "published": "2026-06-08T18:18:43.157Z",
+      "summary": "Today, Apple previewed its upcoming software releases that will deliver the next generation of Apple Intelligence and introduce Siri AI.",
+      "source": "Apple Newsroom",
+      "category": "Tech"
+    },
+    {
+      "title": "Apple Intelligence brings powerful AI capabilities into everyday experiences",
+      "link": "https://www.apple.com/newsroom/2026/06/apple-intelligence-brings-powerful-ai-capabilities-into-everyday-experiences/",
+      "published": "2026-06-08T18:17:44.449Z",
+      "summary": "Apple unveils the next generation of Apple Intelligence, integrating powerful AI capabilities into iPhone, iPad, and Mac for more personal and helpful everyday experiences.",
+      "source": "Apple Newsroom",
+      "category": "Tech"
+    },
+    {
+      "title": "Apple introduces Siri AI, a profoundly more capable and personal assistant",
+      "link": "https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/",
+      "published": "2026-06-08T18:15:52.996Z",
+      "summary": "Apple introduces Siri AI, a profoundly more capable and personal assistant powered by Apple Intelligence, with personal context, world knowledge, and onscreen awareness.",
+      "source": "Apple Newsroom",
+      "category": "Tech"
+    }
+  ]
+}
