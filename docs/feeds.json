@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19 08:32 UTC",
+  "generated_at": "2026-08-19 09:29 UTC",
   "items": [
     {
       "title": "LG to Ban Residential Proxies from Smart TV Apps",
@@ -7,6 +7,14 @@
       "published": "Wed, 22 Jul 2026 01:10:38 +0000",
       "summary": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less than a month after researchers found th…",
       "source": "KrebsOnSecurity",
+      "category": "Cyber"
+    },
+    {
+      "title": "Windows 11 24H2 Home and Pro reach end of support in 2 months",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-2-months/",
+      "published": "Wed, 19 Aug 2026 05:10:20 -0400",
+      "summary": "Microsoft has reminded customers that systems running Home and Pro editions of Windows 11 24H2 will stop receiving updates in two months. [...]",
+      "source": "BleepingComputer",
       "category": "Cyber"
     },
     {
@@ -526,14 +534,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/",
       "published": "Mon, 17 Aug 2026 07:25:02 -0400",
       "summary": "Tech giants General Electric (GE) and Philips have also confirmed they're investigating claims that the Clop ransomware gang breached their systems and stole data. [...]",
-      "source": "BleepingComputer",
-      "category": "Cyber"
-    },
-    {
-      "title": "French tax authority data breach affects 678,000 individuals",
-      "link": "https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/",
-      "published": "Mon, 17 Aug 2026 06:09:48 -0400",
-      "summary": "The French Ministry of the Economy and Finance has disclosed a data breach after an attacker accessed the General Directorate of Public Finances (DGFiP) systems and stole data belonging to 678,000 individuals. [...]",
       "source": "BleepingComputer",
       "category": "Cyber"
     },
