@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19 07:34 UTC",
+  "generated_at": "2026-08-19 08:32 UTC",
   "items": [
     {
       "title": "LG to Ban Residential Proxies from Smart TV Apps",
@@ -7,6 +7,14 @@
       "published": "Wed, 22 Jul 2026 01:10:38 +0000",
       "summary": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less than a month after researchers found th…",
       "source": "KrebsOnSecurity",
+      "category": "Cyber"
+    },
+    {
+      "title": "CISA: Medusa ransomware hit over 500 critical infrastructure orgs",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-medusa-ransomware-hit-over-500-critical-infrastructure-orgs/",
+      "published": "Wed, 19 Aug 2026 04:00:48 -0400",
+      "summary": "The FBI said Tuesday that the Medusa ransomware gang has breached more than 500 critical infrastructure organizations in the United States since June 2021. [...]",
+      "source": "BleepingComputer",
       "category": "Cyber"
     },
     {
@@ -526,14 +534,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/",
       "published": "Mon, 17 Aug 2026 06:09:48 -0400",
       "summary": "The French Ministry of the Economy and Finance has disclosed a data breach after an attacker accessed the General Directorate of Public Finances (DGFiP) systems and stole data belonging to 678,000 individuals. [...]",
-      "source": "BleepingComputer",
-      "category": "Cyber"
-    },
-    {
-      "title": "Microsoft working on Defender patch for ShieldBreak zero-day",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-working-on-defender-patch-for-shieldbreak-zero-day/",
-      "published": "Mon, 17 Aug 2026 05:05:33 -0400",
-      "summary": "Microsoft is working on a security patch for the \"ShieldBreak\" zero-day vulnerability disclosed last week by security researcher \"Nightmare Eclipse\" and now tracked as CVE-2026-69414. [...]",
       "source": "BleepingComputer",
       "category": "Cyber"
     },
