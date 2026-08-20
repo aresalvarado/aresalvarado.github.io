@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20 09:30 UTC",
+  "generated_at": "2026-08-20 10:25 UTC",
   "items": [
     {
       "title": "LG to Ban Residential Proxies from Smart TV Apps",
@@ -338,14 +338,6 @@
       "category": "Cyber"
     },
     {
-      "title": "Comcast turns your Xfinity WiFi into a home motion detector",
-      "link": "https://www.bleepingcomputer.com/news/security/comcast-turns-your-xfinity-wifi-into-a-home-motion-detector/",
-      "published": "Tue, 18 Aug 2026 16:14:58 -0400",
-      "summary": "Comcast is promoting WiFi-based motion detection as a part of its new Xfinity Shield home protection platform, allowing routers and wireless devices to detect people moving through a home without cameras or motion sensors. [...]",
-      "source": "BleepingComputer",
-      "category": "Cyber"
-    },
-    {
       "title": "Keep your SAT prep on track with practice tests in Gemini.",
       "link": "https://blog.google/innovation-and-ai/products/gemini-app/how-to-take-practice-sat/",
       "published": "Tue, 18 Aug 2026 16:00:00 +0000",
@@ -367,14 +359,6 @@
       "published": "Tue, 18 Aug 2026 14:40:45 +0530",
       "summary": "SafePal has disclosed that an authorization flaw in an order-tracking plug-in exposed the names, email addresses, shipping addresses, phone numbers, and purchase details of approximately 39,798 customers. The hardware wallet maker said all …",
       "source": "The Hacker News",
-      "category": "Cyber"
-    },
-    {
-      "title": "Clop created custom web shell for Windchill data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/",
-      "published": "Tue, 18 Aug 2026 13:29:51 -0400",
-      "summary": "A custom Java web shell likely linked to the Clop ransomware gang was designed specifically for PTC Windchill and FlexPLM servers, with built-in features to decrypt credentials, enumerate file repositories, and steal files. [...]",
-      "source": "BleepingComputer",
       "category": "Cyber"
     },
     {
@@ -439,6 +423,22 @@
       "published": "Thu, 20 Aug 2026 11:34:34 +0530",
       "summary": "Cybersecurity researchers have disclosed details of a critical flaw in the Elementor Pro WordPress plugin that, if successfully exploited, could lead to remote code execution. The vulnerability, tracked as CVE-2026-32475, carries a CVSS sco…",
       "source": "The Hacker News",
+      "category": "Cyber"
+    },
+    {
+      "title": "New Manic Android malware can exfiltrate data through nearby devices",
+      "link": "https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/",
+      "published": "Thu, 20 Aug 2026 06:02:02 -0400",
+      "summary": "A new Android malware named Manic targeting users in multiple European countries has a fallback data exfiltration mechanism that uses nearby infected devices. [...]",
+      "source": "BleepingComputer",
+      "category": "Cyber"
+    },
+    {
+      "title": "Critical Zimbra RCE flaw now actively exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-zimbra-rce-flaw-now-actively-exploited-in-attacks/",
+      "published": "Thu, 20 Aug 2026 05:46:54 -0400",
+      "summary": "CERT Polska, the Polish Computer Emergency Response Team (CERT), warned that attackers have begun exploiting a critical vulnerability in Zimbra Collaboration Suite (ZCS). [...]",
+      "source": "BleepingComputer",
       "category": "Cyber"
     },
     {
