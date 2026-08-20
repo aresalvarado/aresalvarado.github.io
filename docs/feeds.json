@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20 15:29 UTC",
+  "generated_at": "2026-08-20 16:30 UTC",
   "items": [
     {
       "title": "LG to Ban Residential Proxies from Smart TV Apps",
@@ -162,14 +162,6 @@
       "category": "Cyber"
     },
     {
-      "title": "Clop-Linked Windchill Web Shell Decrypts Credentials and Maps Engineering Data",
-      "link": "https://thehackernews.com/2026/08/clop-linked-windchill-web-shell.html",
-      "published": "Wed, 19 Aug 2026 11:09:25 +0530",
-      "summary": "A JavaServer Pages (JSP) web shell deployed following the exploitation of a critical security flaw in PTC Windchill and FlexPLM servers is specifically designed for the enterprise Product Lifecycle Management (PLM) software, according to ne…",
-      "source": "The Hacker News",
-      "category": "Cyber"
-    },
-    {
       "title": "Password spraying attacks surge 155x as hackers exploit MFA gaps",
       "link": "https://www.bleepingcomputer.com/news/security/password-spraying-attacks-surge-155x-as-hackers-exploit-mfa-gaps/",
       "published": "Wed, 19 Aug 2026 10:00:10 -0400",
@@ -182,22 +174,6 @@
       "link": "https://blog.google/products-and-platforms/platforms/android/tap-to-share-android/",
       "published": "Wed, 12 Aug 2026 14:00:00 +0000",
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tap_to_Share_social.max-600x600.format-webp.webp\" />Sharing between Android devices is even easier, starting with Pixel. Use Quick Share and tap to send contact info …",
-      "source": "Google Blog",
-      "category": "Tech"
-    },
-    {
-      "title": "Google’s most sophisticated foldable: Pixel 11 Pro Fold",
-      "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/",
-      "published": "Wed, 12 Aug 2026 14:00:00 +0000",
-      "summary": "Video showing Pixel 11 Pro Fold, new features and upgrades",
-      "source": "Google Blog",
-      "category": "Tech"
-    },
-    {
-      "title": "The Pixel 11 series: Your most personal Pixel yet",
-      "link": "https://blog.google/products-and-platforms/devices/pixel/google-pixel-11-pro-xl/",
-      "published": "Wed, 12 Aug 2026 14:00:00 +0000",
-      "summary": "Close-up video of Pixel 11 Pro in Canyon",
       "source": "Google Blog",
       "category": "Tech"
     },
@@ -298,6 +274,14 @@
       "category": "Cyber"
     },
     {
+      "title": "New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data",
+      "link": "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html",
+      "published": "Thu, 20 Aug 2026 20:06:27 +0530",
+      "summary": "Adversa AI has disclosed an attack technique that it says can cause xAI's Grok chatbot to send a user's name, approximate location, subscription tier, and the prompts from the ongoing conversation to an attacker-controlled server after the …",
+      "source": "The Hacker News",
+      "category": "Cyber"
+    },
+    {
       "title": "Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE",
       "link": "https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html",
       "published": "Thu, 20 Aug 2026 19:18:24 +0530",
@@ -368,6 +352,22 @@
       "summary": "Cybersecurity researchers have shed light on an updated version of ToxicPanda (aka TgToxic) that comes with \"significant enhancements,\" including a set of 167 remote commands and expands its targeting footprint globally. Zimperium zLabs, in…",
       "source": "The Hacker News",
       "category": "Cyber"
+    },
+    {
+      "title": "Take an interactive journey through America’s national parks",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/united-parks-of-america/",
+      "published": "Thu, 20 Aug 2026 16:00:00 +0000",
+      "summary": "YouTube video: United Parks of America",
+      "source": "Google Blog",
+      "category": "Tech"
+    },
+    {
+      "title": "Personalize the content you see on Search, Discover, and News",
+      "link": "https://blog.google/products-and-platforms/products/search/personalize-search-discover-news/",
+      "published": "Thu, 20 Aug 2026 16:00:00 +0000",
+      "summary": "A woman looks at a phone outdoors",
+      "source": "Google Blog",
+      "category": "Tech"
     },
     {
       "title": "40 Malicious Firefox Extensions Pose as Web3 Products to Steal Wallet Secrets",
@@ -474,18 +474,18 @@
       "category": "Tech"
     },
     {
-      "title": "Stay present while taking pictures with Magic Capture on Pixel 11.",
-      "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-magic-capture/",
-      "published": "Thu, 13 Aug 2026 16:00:00 +0000",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MagicCapture.max-600x600.format-webp.webp\" />Pixel 11’s new Magic Capture feature finds the best shots from dynamic scenes so you don’t miss precious moments trying t…",
-      "source": "Google Blog",
-      "category": "Tech"
-    },
-    {
       "title": "Get updates while your Pixel 11 Pro is face down with HiLight.",
       "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-hilight/",
       "published": "Thu, 13 Aug 2026 16:00:00 +0000",
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KW_G_HiLite.max-600x600.format-webp.webp\" />HiLight, a new Pixel 11 Pro feature, gently glows to notify you of timely updates — keeping you informed when your phone i…",
+      "source": "Google Blog",
+      "category": "Tech"
+    },
+    {
+      "title": "Stay present while taking pictures with Magic Capture on Pixel 11.",
+      "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-magic-capture/",
+      "published": "Thu, 13 Aug 2026 16:00:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MagicCapture.max-600x600.format-webp.webp\" />Pixel 11’s new Magic Capture feature finds the best shots from dynamic scenes so you don’t miss precious moments trying t…",
       "source": "Google Blog",
       "category": "Tech"
     },
