@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20 11:22 UTC",
+  "generated_at": "2026-08-20 12:39 UTC",
   "items": [
     {
       "title": "LG to Ban Residential Proxies from Smart TV Apps",
@@ -190,14 +190,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/",
       "published": "Wed, 19 Aug 2026 06:12:24 -0400",
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are exploiting a critical-severity remote code execution (RCE) flaw in the Windows Internet Key Exchange (IKE) Service Extensions component. [...]",
-      "source": "BleepingComputer",
-      "category": "Cyber"
-    },
-    {
-      "title": "Windows 11 24H2 Home and Pro reach end of support in 2 months",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-2-months/",
-      "published": "Wed, 19 Aug 2026 05:10:20 -0400",
-      "summary": "Microsoft has reminded customers that systems running Home and Pro editions of Windows 11 24H2 will stop receiving updates in two months. [...]",
       "source": "BleepingComputer",
       "category": "Cyber"
     },
@@ -415,6 +407,14 @@
       "published": "Thu, 20 Aug 2026 11:34:34 +0530",
       "summary": "Cybersecurity researchers have disclosed details of a critical flaw in the Elementor Pro WordPress plugin that, if successfully exploited, could lead to remote code execution. The vulnerability, tracked as CVE-2026-32475, carries a CVSS sco…",
       "source": "The Hacker News",
+      "category": "Cyber"
+    },
+    {
+      "title": "Citrix urges admins to patch new NetScaler flaws as soon as possible",
+      "link": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/",
+      "published": "Thu, 20 Aug 2026 08:14:38 -0400",
+      "summary": "Citrix has warned customers to immediately secure their systems against two vulnerabilities affecting NetScaler Gateway secure remote access solutions and NetScaler ADC networking appliances. [...]",
+      "source": "BleepingComputer",
       "category": "Cyber"
     },
     {
