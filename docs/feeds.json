@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20 18:33 UTC",
+  "generated_at": "2026-08-20 19:27 UTC",
   "items": [
     {
       "title": "LG to Ban Residential Proxies from Smart TV Apps",
@@ -103,14 +103,6 @@
       "published": "Wed, 19 Aug 2026 16:53:38 -0400",
       "summary": "Japanese cloud and data center service provider Sakura Internet disclosed that hackers accessed its sales management system, where customer contract and membership information is stored. [...]",
       "source": "BleepingComputer",
-      "category": "Cyber"
-    },
-    {
-      "title": "Critical macOS, SharePoint, vCenter, and Microsoft IKE Flaws Under Active Exploitation",
-      "link": "https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html",
-      "published": "Wed, 19 Aug 2026 16:31:48 +0530",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four critical vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, stating they are being exploited in the wild. The shortcomings added to th…",
-      "source": "The Hacker News",
       "category": "Cyber"
     },
     {
@@ -247,6 +239,14 @@
       "published": "Thu, 30 Jul 2026 16:49:00 +0000",
       "summary": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connection out to strangers. …",
       "source": "KrebsOnSecurity",
+      "category": "Cyber"
+    },
+    {
+      "title": "ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit and More",
+      "link": "https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html",
+      "published": "Thu, 20 Aug 2026 22:53:48 +0530",
+      "summary": "A lot of this week’s trouble starts with something trusted doing exactly what it was allowed to do. Signed drivers get turned against defenses. Legitimate apps help malware blend in. A weak header check opens a path to code execution. Elsew…",
+      "source": "The Hacker News",
       "category": "Cyber"
     },
     {
