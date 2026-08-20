@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20 13:42 UTC",
+  "generated_at": "2026-08-20 14:32 UTC",
   "items": [
     {
       "title": "LG to Ban Residential Proxies from Smart TV Apps",
@@ -186,14 +186,6 @@
       "category": "Cyber"
     },
     {
-      "title": "Critical RCE flaw in Windows IKE Extension now actively exploited",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/",
-      "published": "Wed, 19 Aug 2026 06:12:24 -0400",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are exploiting a critical-severity remote code execution (RCE) flaw in the Windows Internet Key Exchange (IKE) Service Extensions component. [...]",
-      "source": "BleepingComputer",
-      "category": "Cyber"
-    },
-    {
       "title": "Sharing between Pixel devices is now just a tap away.",
       "link": "https://blog.google/products-and-platforms/platforms/android/tap-to-share-android/",
       "published": "Wed, 12 Aug 2026 14:00:00 +0000",
@@ -240,30 +232,6 @@
       "summary": "<p>By <a href=\"https://www.linkedin.com/in/zhuoning-yuan/\">Zhuoning Yuan</a>, <a href=\"https://www.linkedin.com/in/tim-ta-ying-cheng-411857139/\">Ta-Ying Cheng</a>, <a href=\"https://www.linkedin.com/in/benjamin-klein-usa/\">Benjamin Klein</a>…",
       "source": "Netflix TechBlog",
       "category": "Tech"
-    },
-    {
-      "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps",
-      "link": "https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html",
-      "published": "Tue, 18 Aug 2026 23:17:22 +0530",
-      "summary": "Varonis Threat Labs has disclosed three vulnerabilities in Microsoft Copilot Personal that it said could allow a single click on a crafted link to silently pull data from connected apps and other information available to the victim's Copilo…",
-      "source": "The Hacker News",
-      "category": "Cyber"
-    },
-    {
-      "title": "Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets",
-      "link": "https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html",
-      "published": "Tue, 18 Aug 2026 23:14:05 +0530",
-      "summary": "Two critical vulnerabilities impacting MLflow, an open-source artificial intelligence (AI) platform, and FUXA, an open-source, web-based SCADA / HMI software built for operational technology (OT) and industrial automation, are witnessing ma…",
-      "source": "The Hacker News",
-      "category": "Cyber"
-    },
-    {
-      "title": "Ransom Busters Claims It Hacked Ransomware Servers, Asks Victims for Up to $60,000",
-      "link": "https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html",
-      "published": "Tue, 18 Aug 2026 22:28:16 +0530",
-      "summary": "A ransomware affiliate calling itself Ransom Busters has been spotted proactively sending emails to victim organizations and claims to delete stolen data from ransomware groups' servers in exchange for a fee ranging from $20,000 to $60,000.…",
-      "source": "The Hacker News",
-      "category": "Cyber"
     },
     {
       "title": "Tap into the power of Gemini in Chrome on Android.",
@@ -338,6 +306,30 @@
       "category": "Cyber"
     },
     {
+      "title": "Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE",
+      "link": "https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html",
+      "published": "Thu, 20 Aug 2026 19:18:24 +0530",
+      "summary": "Cybersecurity researchers have disclosed a critical security flaw in isolated-vm, a popular open-source sandbox with more than 2,900 stars and 190 forks on GitHub, that could allow attackers to escape the confines of the isolated environmen…",
+      "source": "The Hacker News",
+      "category": "Cyber"
+    },
+    {
+      "title": "Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers",
+      "link": "https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html",
+      "published": "Thu, 20 Aug 2026 19:05:13 +0530",
+      "summary": "Citrix has released updates to address two security flaws impacting NetScaler ADC and NetScaler Gateway deployments, including a critical-severity authentication bypass vulnerability. According to the cloud computing and virtualization tech…",
+      "source": "The Hacker News",
+      "category": "Cyber"
+    },
+    {
+      "title": "Attackers Exploit Zimbra SNMP Flaw for Unauthenticated Remote Code Execution",
+      "link": "https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html",
+      "published": "Thu, 20 Aug 2026 18:54:28 +0530",
+      "summary": "A now-patched security flaw impacting Zimbra Collaboration (ZCS) has come under active exploitation in the wild, according to the Polish Computer Emergency Response Team (CERT Polska). The vulnerability in question is CVE-2026-73570 (CVSS s…",
+      "source": "The Hacker News",
+      "category": "Cyber"
+    },
+    {
       "title": "Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments",
       "link": "https://thehackernews.com/2026/08/zombie-card-attack-can-revive-expired.html",
       "published": "Thu, 20 Aug 2026 17:31:24 +0530",
@@ -407,6 +399,14 @@
       "published": "Thu, 20 Aug 2026 11:34:34 +0530",
       "summary": "Cybersecurity researchers have disclosed details of a critical flaw in the Elementor Pro WordPress plugin that, if successfully exploited, could lead to remote code execution. The vulnerability, tracked as CVE-2026-32475, carries a CVSS sco…",
       "source": "The Hacker News",
+      "category": "Cyber"
+    },
+    {
+      "title": "How MSPs can catch phishing attacks email filters miss",
+      "link": "https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/",
+      "published": "Thu, 20 Aug 2026 10:01:11 -0400",
+      "summary": "AI is making phishing attacks more personalized, convincing, and difficult for traditional email filters to detect. Kaseya explains how MSPs can monitor identity, email, and endpoint activity to detect and contain attacks that make it past …",
+      "source": "BleepingComputer",
       "category": "Cyber"
     },
     {
