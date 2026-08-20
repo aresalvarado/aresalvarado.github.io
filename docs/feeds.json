@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20 19:27 UTC",
+  "generated_at": "2026-08-20 20:23 UTC",
   "items": [
     {
       "title": "LG to Ban Residential Proxies from Smart TV Apps",
@@ -87,14 +87,6 @@
       "published": "Wed, 19 Aug 2026 16:59:58 -0400",
       "summary": "A suspected ransomware affiliate is posing as a ransomware recovery service called \"Ransom Busters,\" contacting the victims before the attacks become public and claiming to be able to provide decryption keys and delete stolen data for a fee…",
       "source": "BleepingComputer",
-      "category": "Cyber"
-    },
-    {
-      "title": "StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data",
-      "link": "https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html",
-      "published": "Wed, 19 Aug 2026 16:55:28 +0530",
-      "summary": "Cybersecurity researchers have flagged a global cybercrime operation that abuses thousands of hacked WordPress websites as infrastructure to disseminate malware, commandeer infected hosts, store stolen documents, screenshots, and activity l…",
-      "source": "The Hacker News",
       "category": "Cyber"
     },
     {
@@ -560,6 +552,14 @@
       "summary": "<p>by <a href=\"https://www.linkedin.com/in/aarti-laddha-70666557/\">Aarti Laddha</a>, <a href=\"https://www.linkedin.com/in/richardjcool/\">Richard Diaz-Cool</a>, <a href=\"https://www.linkedin.com/in/rishikaidnani/\">Rishika Idnani</a>, <a href…",
       "source": "Netflix TechBlog",
       "category": "Tech"
+    },
+    {
+      "title": "Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts",
+      "link": "https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html",
+      "published": "Fri, 21 Aug 2026 01:29:19 +0530",
+      "summary": "Three distinct suspected Russian cyber espionage threat clusters have been observed leveraging legitimate authentication flows to single out individuals working in academia, aerospace and defense, governments, and think tanks across Europe,…",
+      "source": "The Hacker News",
+      "category": "Cyber"
     },
     {
       "title": "The Data Canary: How Netflix Validates Catalog Metadata",
