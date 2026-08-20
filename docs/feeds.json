@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20 16:30 UTC",
+  "generated_at": "2026-08-20 17:25 UTC",
   "items": [
     {
       "title": "LG to Ban Residential Proxies from Smart TV Apps",
@@ -154,28 +154,12 @@
       "category": "Cyber"
     },
     {
-      "title": "Microsoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure",
-      "link": "https://thehackernews.com/2026/08/microsoft-links-30-rotating-domains-to.html",
-      "published": "Wed, 19 Aug 2026 11:31:53 +0530",
-      "summary": "Microsoft Defender Experts have linked more than 30 web domains to MacSync Stealer, a macOS-focused information stealer, after correlating recurring endpoint and network behaviors across changing infrastructure, tracing the malware from pay…",
-      "source": "The Hacker News",
-      "category": "Cyber"
-    },
-    {
       "title": "Password spraying attacks surge 155x as hackers exploit MFA gaps",
       "link": "https://www.bleepingcomputer.com/news/security/password-spraying-attacks-surge-155x-as-hackers-exploit-mfa-gaps/",
       "published": "Wed, 19 Aug 2026 10:00:10 -0400",
       "summary": "Huntress observed a 155x increase in password spraying attacks in H1 2026, including a campaign that generated more than 81 million login attempts in two weeks. The attacks exploited legacy authentication and gaps in MFA policies that left …",
       "source": "BleepingComputer",
       "category": "Cyber"
-    },
-    {
-      "title": "Sharing between Pixel devices is now just a tap away.",
-      "link": "https://blog.google/products-and-platforms/platforms/android/tap-to-share-android/",
-      "published": "Wed, 12 Aug 2026 14:00:00 +0000",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tap_to_Share_social.max-600x600.format-webp.webp\" />Sharing between Android devices is even easier, starting with Pixel. Use Quick Share and tap to send contact info …",
-      "source": "Google Blog",
-      "category": "Tech"
     },
     {
       "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
@@ -274,6 +258,14 @@
       "category": "Cyber"
     },
     {
+      "title": "AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure",
+      "link": "https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html",
+      "published": "Thu, 20 Aug 2026 22:29:44 +0530",
+      "summary": "The U.S. government on Wednesday warned of an \"active threat\" targeting critical infrastructure organizations in the country using artificial intelligence (AI)-generated exploit scripts. The activity is targeting Siemens S7 SeriesProgrammab…",
+      "source": "The Hacker News",
+      "category": "Cyber"
+    },
+    {
       "title": "New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data",
       "link": "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html",
       "published": "Thu, 20 Aug 2026 20:06:27 +0530",
@@ -366,6 +358,14 @@
       "link": "https://blog.google/products-and-platforms/products/search/personalize-search-discover-news/",
       "published": "Thu, 20 Aug 2026 16:00:00 +0000",
       "summary": "A woman looks at a phone outdoors",
+      "source": "Google Blog",
+      "category": "Tech"
+    },
+    {
+      "title": "Inside the Gemmaverse: Celebrating one billion Gemma downloads",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-one-billion-downloads/",
+      "published": "Thu, 20 Aug 2026 15:30:00 +0000",
+      "summary": "an illustrated blue image that reads \"Celebrating the Gemmaverse\"",
       "source": "Google Blog",
       "category": "Tech"
     },
@@ -474,18 +474,18 @@
       "category": "Tech"
     },
     {
-      "title": "Get updates while your Pixel 11 Pro is face down with HiLight.",
-      "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-hilight/",
-      "published": "Thu, 13 Aug 2026 16:00:00 +0000",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KW_G_HiLite.max-600x600.format-webp.webp\" />HiLight, a new Pixel 11 Pro feature, gently glows to notify you of timely updates — keeping you informed when your phone i…",
-      "source": "Google Blog",
-      "category": "Tech"
-    },
-    {
       "title": "Stay present while taking pictures with Magic Capture on Pixel 11.",
       "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-magic-capture/",
       "published": "Thu, 13 Aug 2026 16:00:00 +0000",
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MagicCapture.max-600x600.format-webp.webp\" />Pixel 11’s new Magic Capture feature finds the best shots from dynamic scenes so you don’t miss precious moments trying t…",
+      "source": "Google Blog",
+      "category": "Tech"
+    },
+    {
+      "title": "Get updates while your Pixel 11 Pro is face down with HiLight.",
+      "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-hilight/",
+      "published": "Thu, 13 Aug 2026 16:00:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KW_G_HiLite.max-600x600.format-webp.webp\" />HiLight, a new Pixel 11 Pro feature, gently glows to notify you of timely updates — keeping you informed when your phone i…",
       "source": "Google Blog",
       "category": "Tech"
     },
