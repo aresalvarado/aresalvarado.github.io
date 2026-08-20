@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19 23:19 UTC",
+  "generated_at": "2026-08-20 01:00 UTC",
   "items": [
     {
       "title": "LG to Ban Residential Proxies from Smart TV Apps",
@@ -15,6 +15,14 @@
       "published": "Wed, 19 Aug 2026 23:36:44 +0530",
       "summary": "OpenAI on Tuesday revealed that it paused reinforcement learning (RL) training for its latest artificial intelligence (AI) models for two weeks while it shored up additional defenses and increased the scope of its monitoring to avert anothe…",
       "source": "The Hacker News",
+      "category": "Cyber"
+    },
+    {
+      "title": "OpenAI confirms ChatGPT is down as logins and signups fail",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail/",
+      "published": "Wed, 19 Aug 2026 20:20:55 -0400",
+      "summary": "ChatGPT is experiencing a major outage, and users are unable to sign in, create accounts, or load chats, including previous conversations. [...]",
+      "source": "BleepingComputer",
       "category": "Cyber"
     },
     {
@@ -392,14 +400,6 @@
       "summary": "A high-altitude view of a commercial airplane flying above a layer of clouds, with a distinct white contrail trailing behind it.",
       "source": "Google Blog",
       "category": "Tech"
-    },
-    {
-      "title": "Microsoft tests faster Windows File Explorer, new context menu",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-faster-windows-explorer-customizable-context-menu/",
-      "published": "Tue, 18 Aug 2026 07:14:28 -0400",
-      "summary": "Microsoft has started testing a faster File Explorer and a less cluttered and more customizable context menu in Windows 11 preview builds rolling out to Insiders this week. [...]",
-      "source": "BleepingComputer",
-      "category": "Cyber"
     },
     {
       "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
