@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20 12:39 UTC",
+  "generated_at": "2026-08-20 13:42 UTC",
   "items": [
     {
       "title": "LG to Ban Residential Proxies from Smart TV Apps",
@@ -218,14 +218,6 @@
       "category": "Tech"
     },
     {
-      "title": "Keep tabs on your valuables with Google Pixel Tag",
-      "link": "https://blog.google/products-and-platforms/devices/pixel/google-pixel-tag/",
-      "published": "Wed, 12 Aug 2026 14:00:00 +0000",
-      "summary": "Pixel Tag attached to a keychain, resting inside a small trinket box.",
-      "source": "Google Blog",
-      "category": "Tech"
-    },
-    {
       "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
       "link": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
       "published": "Wed, 08 Jul 2026 12:31:39 +0000",
@@ -282,44 +274,12 @@
       "category": "Tech"
     },
     {
-      "title": "AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files",
-      "link": "https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html",
-      "published": "Tue, 18 Aug 2026 18:08:36 +0530",
-      "summary": "Security researchers at Anthropic and Switzerland's EPFL have demonstrated that self-propagating payloads can spread from one artificial intelligence (AI) agent to the next through the editable system prompt files that autonomous agent harn…",
-      "source": "The Hacker News",
-      "category": "Cyber"
-    },
-    {
-      "title": "TWINLOOT Abuses SharePoint and Teams to Steal Credentials and Move Across Networks",
-      "link": "https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html",
-      "published": "Tue, 18 Aug 2026 18:08:20 +0530",
-      "summary": "Cybersecurity researchers have disclosed details of a previously undocumented Python implant framework dubbed TWINLOOT. \"TWINLOOT is a modular, PyArmor-hardened Python implant designed to operate its entire command-and-control infrastructur…",
-      "source": "The Hacker News",
-      "category": "Cyber"
-    },
-    {
       "title": "Try 4 new interactive BTS experiences inside the Gemini app",
       "link": "https://blog.google/innovation-and-ai/products/gemini-app/four-new-interactive-bts-experiences/",
       "published": "Tue, 18 Aug 2026 17:30:00 +0000",
       "summary": "BTS members around the text \"Look what you can do\" and \"Unlock BTS\" in a Google search bar",
       "source": "Google Blog",
       "category": "Tech"
-    },
-    {
-      "title": "One Attacker Has Scraped Both Salesforce and ServiceNow Portals Since 2025",
-      "link": "https://thehackernews.com/2026/08/one-attacker-has-scraped-both.html",
-      "published": "Tue, 18 Aug 2026 17:00:00 +0530",
-      "summary": "A single piece of infrastructure has been pulling records out of Salesforce and ServiceNow customer portals across multiple industries for more than a year, according to research published this week by agent security platform Reco. The acti…",
-      "source": "The Hacker News",
-      "category": "Cyber"
-    },
-    {
-      "title": "16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets",
-      "link": "https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html",
-      "published": "Tue, 18 Aug 2026 16:50:00 +0530",
-      "summary": "Cybersecurity researchers have flagged a new typosquatting campaign targeting RubyGems users with a Windows-based information stealer. OpenSourceMalware, which discovered the activity on August 15, 2026, is tracking the threat under the mon…",
-      "source": "The Hacker News",
-      "category": "Cyber"
     },
     {
       "title": "Keep your SAT prep on track with practice tests in Gemini.",
@@ -378,6 +338,38 @@
       "category": "Cyber"
     },
     {
+      "title": "Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments",
+      "link": "https://thehackernews.com/2026/08/zombie-card-attack-can-revive-expired.html",
+      "published": "Thu, 20 Aug 2026 17:31:24 +0530",
+      "summary": "Researchers at the University of Massachusetts Amherst have demonstrated an attack that revives expired Visa contactless credit cards for real in-store purchases by rewriting the expiration date a point-of-sale (POS) terminal reads over nea…",
+      "source": "The Hacker News",
+      "category": "Cyber"
+    },
+    {
+      "title": "Why \"Shady AI\" is Security's Next Big Governance Problem",
+      "link": "https://thehackernews.com/2026/08/why-shady-ai-is-securitys-next-big.html",
+      "published": "Thu, 20 Aug 2026 17:15:00 +0530",
+      "summary": "In March 2026, an internal AI agent at Meta triggered a “Sev 1” incident after sensitive company and user data was exposed to employees who weren’t authorized to access it. The incident began when a Meta employee posted a technical question…",
+      "source": "The Hacker News",
+      "category": "Cyber"
+    },
+    {
+      "title": "CDN Tsunami Attack Abuses HTTP/3 Translation for Up to 350x DoS Amplification",
+      "link": "https://thehackernews.com/2026/08/cdn-tsunami-attack-abuses-http3.html",
+      "published": "Thu, 20 Aug 2026 17:09:35 +0530",
+      "summary": "Cybersecurity researchers have disclosed two denial-of-service (DoS) attacks that exploit how major content delivery networks (CDNs) convert client-facing HTTP/3 traffic into HTTP/1.1 requests to the websites they front, amplifying a low-ba…",
+      "source": "The Hacker News",
+      "category": "Cyber"
+    },
+    {
+      "title": "Manic Android Malware Exfiltrates Data From Offline Phones via Nearby Infected Devices",
+      "link": "https://thehackernews.com/2026/08/manic-android-malware-exfiltrates-data.html",
+      "published": "Thu, 20 Aug 2026 16:56:08 +0530",
+      "summary": "A new Android threat codenamed Manic has been observed actively targeting Ukrainian banks, government and identity services, and messaging applications, as well as Russian and European financial institutions, global fintech and cryptocurren…",
+      "source": "The Hacker News",
+      "category": "Cyber"
+    },
+    {
       "title": "NASA AIT-GUI Flaws Could Let Unauthenticated Attackers Issue Spacecraft Commands",
       "link": "https://thehackernews.com/2026/08/nasa-ait-gui-flaws-could-let.html",
       "published": "Thu, 20 Aug 2026 16:35:11 +0530",
@@ -400,6 +392,14 @@
       "summary": "A set of 40 Mozilla Firefox extensions has been found to engage in cryptocurrency wallet theft by masquerading as OKX, Rabby Wallet, TronLink, and other Web3 products. According to the Socket Threat Research team, the extensions are part of…",
       "source": "The Hacker News",
       "category": "Cyber"
+    },
+    {
+      "title": "Make AI Max work for your business with new testing and planning tools.",
+      "link": "https://blog.google/products/ads-commerce/ai-max-testing-planning-tools/",
+      "published": "Thu, 20 Aug 2026 13:00:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Max_Announcement.max-600x600.format-webp.webp\" />Use new AI Max tools — like A/B tests and performance planners for budget and bidding changes — to maximize your S…",
+      "source": "Google Blog",
+      "category": "Tech"
     },
     {
       "title": "Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code",
