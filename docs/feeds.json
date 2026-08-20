@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20 21:24 UTC",
+  "generated_at": "2026-08-20 22:23 UTC",
   "items": [
     {
       "title": "LG to Ban Residential Proxies from Smart TV Apps",
@@ -70,14 +70,6 @@
       "link": "https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html",
       "published": "Wed, 19 Aug 2026 17:04:28 +0530",
       "summary": "Cybersecurity researchers at Hunt.io have disclosed details of a campaign that they say compromised more than 14,530 Dahua devices between June 17 and July 22, 2026, using credential attacks, two authentication-bypass flaws, and a peer-to-p…",
-      "source": "The Hacker News",
-      "category": "Cyber"
-    },
-    {
-      "title": "Phishing 3.0: The Fight Moves to Agent Versus Agent",
-      "link": "https://thehackernews.com/2026/08/phishing-30-fight-moves-to-agent-versus.html",
-      "published": "Wed, 19 Aug 2026 17:00:00 +0530",
-      "summary": "Most email defenses still do the job they did a decade ago. Scan the message, look for something malicious, block it. That worked when the danger sat in the payload, a bad link or an attachment. It stopped working when the danger moved into…",
       "source": "The Hacker News",
       "category": "Cyber"
     },
@@ -552,6 +544,14 @@
       "summary": "<p>by <a href=\"https://www.linkedin.com/in/aarti-laddha-70666557/\">Aarti Laddha</a>, <a href=\"https://www.linkedin.com/in/richardjcool/\">Richard Diaz-Cool</a>, <a href=\"https://www.linkedin.com/in/rishikaidnani/\">Rishika Idnani</a>, <a href…",
       "source": "Netflix TechBlog",
       "category": "Tech"
+    },
+    {
+      "title": "Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads",
+      "link": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html",
+      "published": "Fri, 21 Aug 2026 01:52:35 +0530",
+      "summary": "The Rust Project has deleted malicious versions of three widely used Rust crates from crates.io after a compromised maintainer account published releases that added a typosquatted dependency whose build script downloaded and executed a remo…",
+      "source": "The Hacker News",
+      "category": "Cyber"
     },
     {
       "title": "Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts",
