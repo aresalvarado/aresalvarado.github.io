@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20 14:32 UTC",
+  "generated_at": "2026-08-20 15:29 UTC",
   "items": [
     {
       "title": "LG to Ban Residential Proxies from Smart TV Apps",
@@ -174,14 +174,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/password-spraying-attacks-surge-155x-as-hackers-exploit-mfa-gaps/",
       "published": "Wed, 19 Aug 2026 10:00:10 -0400",
       "summary": "Huntress observed a 155x increase in password spraying attacks in H1 2026, including a campaign that generated more than 81 million login attempts in two weeks. The attacks exploited legacy authentication and gaps in MFA policies that left …",
-      "source": "BleepingComputer",
-      "category": "Cyber"
-    },
-    {
-      "title": "Microsoft fixes known issue causing Windows Defender crashes",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-causing-windows-defender-crashes/",
-      "published": "Wed, 19 Aug 2026 07:14:28 -0400",
-      "summary": "Microsoft has resolved a bug that caused Windows Defender to crash after a recent security update, resulting in 0xc0000005 access violation errors on some affected systems. [...]",
       "source": "BleepingComputer",
       "category": "Cyber"
     },
@@ -399,6 +391,14 @@
       "published": "Thu, 20 Aug 2026 11:34:34 +0530",
       "summary": "Cybersecurity researchers have disclosed details of a critical flaw in the Elementor Pro WordPress plugin that, if successfully exploited, could lead to remote code execution. The vulnerability, tracked as CVE-2026-32475, carries a CVSS sco…",
       "source": "The Hacker News",
+      "category": "Cyber"
+    },
+    {
+      "title": "Critical Elementor Pro bug exposes WordPress sites to RCE attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/",
+      "published": "Thu, 20 Aug 2026 10:39:48 -0400",
+      "summary": "A critical vulnerability in the Elementor Pro WordPress plugin could allow attackers to upload executable files for remote code execution on the server. [...]",
+      "source": "BleepingComputer",
       "category": "Cyber"
     },
     {
