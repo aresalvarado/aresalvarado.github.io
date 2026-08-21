@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21 05:28 UTC",
+  "generated_at": "2026-08-21 06:39 UTC",
   "items": [
     {
       "title": "LG to Ban Residential Proxies from Smart TV Apps",
@@ -64,14 +64,6 @@
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Ojai_vehicles_social.max-600x600.format-webp.webp\" />Waymo is bringing Gemini to its custom-built Ojai vehicles to create a more helpful and personalized ride.",
       "source": "Google Blog",
       "category": "Tech"
-    },
-    {
-      "title": "Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P",
-      "link": "https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html",
-      "published": "Wed, 19 Aug 2026 17:04:28 +0530",
-      "summary": "Cybersecurity researchers at Hunt.io have disclosed details of a campaign that they say compromised more than 14,530 Dahua devices between June 17 and July 22, 2026, using credential attacks, two authentication-bypass flaws, and a peer-to-p…",
-      "source": "The Hacker News",
-      "category": "Cyber"
     },
     {
       "title": "Rogue ransomware affiliate poses as recovery firm to steal payments",
@@ -226,7 +218,7 @@
       "category": "Cyber"
     },
     {
-      "title": "ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit and More",
+      "title": "ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit, and More",
       "link": "https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html",
       "published": "Thu, 20 Aug 2026 22:53:48 +0530",
       "summary": "A lot of this week’s trouble starts with something trusted doing exactly what it was allowed to do. Signed drivers get turned against defenses. Legitimate apps help malware blend in. A weak header check opens a path to code execution. Elsew…",
@@ -544,6 +536,14 @@
       "summary": "<p>by <a href=\"https://www.linkedin.com/in/aarti-laddha-70666557/\">Aarti Laddha</a>, <a href=\"https://www.linkedin.com/in/richardjcool/\">Richard Diaz-Cool</a>, <a href=\"https://www.linkedin.com/in/rishikaidnani/\">Rishika Idnani</a>, <a href…",
       "source": "Netflix TechBlog",
       "category": "Tech"
+    },
+    {
+      "title": "Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution",
+      "link": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html",
+      "published": "Fri, 21 Aug 2026 11:36:11 +0530",
+      "summary": "Microsoft on Thursday warned of a maximum-severity security flaw in Entra ID that it said has been exploited in the wild, but noted that no customer action is required. The vulnerability, tracked as CVE-2026-69836 (CVSS score: 10.0), is a c…",
+      "source": "The Hacker News",
+      "category": "Cyber"
     },
     {
       "title": "Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads",
