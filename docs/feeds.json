@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21 14:30 UTC",
+  "generated_at": "2026-08-21 15:28 UTC",
   "items": [
     {
       "title": "LG to Ban Residential Proxies from Smart TV Apps",
@@ -7,14 +7,6 @@
       "published": "Wed, 22 Jul 2026 01:10:38 +0000",
       "summary": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less than a month after researchers found th…",
       "source": "KrebsOnSecurity",
-      "category": "Cyber"
-    },
-    {
-      "title": "OpenAI confirms ChatGPT is down as logins and signups fail",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail/",
-      "published": "Wed, 19 Aug 2026 20:20:55 -0400",
-      "summary": "ChatGPT is experiencing a major outage, and users are unable to sign in, create accounts, or load chats, including previous conversations. [...]",
-      "source": "BleepingComputer",
       "category": "Cyber"
     },
     {
@@ -495,6 +487,14 @@
       "published": "Fri, 21 Aug 2026 11:36:11 +0530",
       "summary": "Microsoft on Thursday warned of a maximum-severity security flaw in Entra ID that it said has been exploited in the wild, but noted that no customer action is required. The vulnerability, tracked as CVE-2026-69836 (CVSS score: 10.0), is a c…",
       "source": "The Hacker News",
+      "category": "Cyber"
+    },
+    {
+      "title": "Microsoft blames Windows gaming issues on RGB lighting devices",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/",
+      "published": "Fri, 21 Aug 2026 10:54:49 -0400",
+      "summary": "Microsoft says ongoing issues causing games to crash or fail to launch after installing the August 2026 Windows updates may be caused by peripherals with RGB lighting. [...]",
+      "source": "BleepingComputer",
       "category": "Cyber"
     },
     {
