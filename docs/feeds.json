@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21 10:26 UTC",
+  "generated_at": "2026-08-21 11:21 UTC",
   "items": [
     {
       "title": "LG to Ban Residential Proxies from Smart TV Apps",
@@ -7,14 +7,6 @@
       "published": "Wed, 22 Jul 2026 01:10:38 +0000",
       "summary": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less than a month after researchers found th…",
       "source": "KrebsOnSecurity",
-      "category": "Cyber"
-    },
-    {
-      "title": "OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior",
-      "link": "https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html",
-      "published": "Wed, 19 Aug 2026 23:36:44 +0530",
-      "summary": "OpenAI on Tuesday revealed that it paused reinforcement learning (RL) training for its latest artificial intelligence (AI) models for two weeks while it shored up additional defenses and increased the scope of its monitoring to avert anothe…",
-      "source": "The Hacker News",
       "category": "Cyber"
     },
     {
@@ -82,28 +74,12 @@
       "category": "Cyber"
     },
     {
-      "title": "Hackers compromise 14,500 Dahua web cameras in 35-day campaign",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-14-500-dahua-web-cameras-in-35-day-campaign/",
-      "published": "Wed, 19 Aug 2026 14:09:13 -0400",
-      "summary": "In a large-scale campaign that researchers dubbed CameraSwarm, hackers compromised more than 14,500 Dahua IP cameras mostly in Ukraine and Russia. [...]",
-      "source": "BleepingComputer",
-      "category": "Cyber"
-    },
-    {
       "title": "What 3 creatives built with unlimited access to Google Flow",
       "link": "https://blog.google/products/ads-commerce/the-small-brief/",
       "published": "Wed, 19 Aug 2026 14:00:00 +0000",
       "summary": "Text \"Google Presents The Small Brief\", above photos of Susan Credle, Jayanta Jenkins, and Tiffany Rolfe",
       "source": "Google Blog",
       "category": "Tech"
-    },
-    {
-      "title": "US warns of AI-powered attacks on Siemens PLCs in critical infrastructure",
-      "link": "https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/",
-      "published": "Wed, 19 Aug 2026 13:50:01 -0400",
-      "summary": "U.S. cybersecurity agencies warn that threat actors are using AI-generated scripts to exploit Siemens S7 Series programmable logic controllers (PLCs) in U.S. critical infrastructure. [...]",
-      "source": "BleepingComputer",
-      "category": "Cyber"
     },
     {
       "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
@@ -522,6 +498,14 @@
       "category": "Tech"
     },
     {
+      "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
+      "link": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
+      "published": "Fri, 21 Aug 2026 15:33:11 +0530",
+      "summary": "Cisco has published another round of security updates for Crosswork platforms and Secure Workload Software as part of a continued comprehensive internal security review. Four of the security vulnerabilities affect Crosswork Data Gateway, Cr…",
+      "source": "The Hacker News",
+      "category": "Cyber"
+    },
+    {
       "title": "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
       "link": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html",
       "published": "Fri, 21 Aug 2026 12:34:25 +0530",
@@ -535,6 +519,22 @@
       "published": "Fri, 21 Aug 2026 11:36:11 +0530",
       "summary": "Microsoft on Thursday warned of a maximum-severity security flaw in Entra ID that it said has been exploited in the wild, but noted that no customer action is required. The vulnerability, tracked as CVE-2026-69836 (CVSS score: 10.0), is a c…",
       "source": "The Hacker News",
+      "category": "Cyber"
+    },
+    {
+      "title": "Microsoft warns of max severity Entra ID flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
+      "published": "Fri, 21 Aug 2026 07:04:10 -0400",
+      "summary": "Microsoft has patched a maximum-severity vulnerability in the Entra ID identity and access management (IAM) platform that has been exploited in attacks. [...]",
+      "source": "BleepingComputer",
+      "category": "Cyber"
+    },
+    {
+      "title": "Hackers abuse FTP server banners to deliver new Windows malware",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/",
+      "published": "Fri, 21 Aug 2026 07:00:00 -0400",
+      "summary": "Threat actors are abusing FTP banners to hide commands that deliver two previously undocumented remote access trojans named E4del and PINHOLE. [...]",
+      "source": "BleepingComputer",
       "category": "Cyber"
     },
     {
