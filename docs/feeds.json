@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21 11:21 UTC",
+  "generated_at": "2026-08-21 12:39 UTC",
   "items": [
     {
       "title": "LG to Ban Residential Proxies from Smart TV Apps",
@@ -62,14 +62,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/sakura-internet-hack-exposes-data-of-up-to-136-million-accounts/",
       "published": "Wed, 19 Aug 2026 16:53:38 -0400",
       "summary": "Japanese cloud and data center service provider Sakura Internet disclosed that hackers accessed its sales management system, where customer contract and membership information is stored. [...]",
-      "source": "BleepingComputer",
-      "category": "Cyber"
-    },
-    {
-      "title": "Healthtech firm CareCloud data breach impacts 3.7 million patients",
-      "link": "https://www.bleepingcomputer.com/news/security/healthtech-firm-carecloud-data-breach-impacts-37-million-patients/",
-      "published": "Wed, 19 Aug 2026 16:07:12 -0400",
-      "summary": "U.S. healthcare IT company CareCloud disclosed that the data breach incident it suffered earlier this year has impacted more than 3.7 million individuals. [...]",
       "source": "BleepingComputer",
       "category": "Cyber"
     },
@@ -386,14 +378,6 @@
       "category": "Cyber"
     },
     {
-      "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
-      "link": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html",
-      "published": "Thu, 20 Aug 2026 00:32:40 +0530",
-      "summary": "Cybersecurity researchers have disclosed details of a remote Spectre attack against Cloudflare Workers that leaked a JSON Web Token (JWT) from a co-located Worker in the production environment at up to 12 bits per second, 360 times the rate…",
-      "source": "The Hacker News",
-      "category": "Cyber"
-    },
-    {
       "title": "Introducing Gemini 3.7 Flash",
       "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
       "published": "Thu, 13 Aug 2026 17:00:00 +0000",
@@ -498,6 +482,14 @@
       "category": "Tech"
     },
     {
+      "title": "Wazuh and AI For Enhanced SOC Workflows",
+      "link": "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html",
+      "published": "Fri, 21 Aug 2026 16:51:39 +0530",
+      "summary": "Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover patterns hidden with…",
+      "source": "The Hacker News",
+      "category": "Cyber"
+    },
+    {
       "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
       "link": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
       "published": "Fri, 21 Aug 2026 15:33:11 +0530",
@@ -519,6 +511,14 @@
       "published": "Fri, 21 Aug 2026 11:36:11 +0530",
       "summary": "Microsoft on Thursday warned of a maximum-severity security flaw in Entra ID that it said has been exploited in the wild, but noted that no customer action is required. The vulnerability, tracked as CVE-2026-69836 (CVSS score: 10.0), is a c…",
       "source": "The Hacker News",
+      "category": "Cyber"
+    },
+    {
+      "title": "CISA orders feds to patch actively exploited TrueConf Server flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws/",
+      "published": "Fri, 21 Aug 2026 08:25:33 -0400",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered U.S. federal agencies to prioritize patching two actively exploited vulnerabilities in the TrueConf Server self-hosted communications platform. [...]",
+      "source": "BleepingComputer",
       "category": "Cyber"
     },
     {
