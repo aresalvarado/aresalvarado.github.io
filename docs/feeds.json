@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21 13:42 UTC",
+  "generated_at": "2026-08-21 14:30 UTC",
   "items": [
     {
       "title": "LG to Ban Residential Proxies from Smart TV Apps",
@@ -26,18 +26,18 @@
       "category": "Tech"
     },
     {
-      "title": "Start the semester with one year of Gemini, on us",
-      "link": "https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/",
-      "published": "Wed, 19 Aug 2026 19:00:00 +0000",
-      "summary": "Text reading: \"Google Gemini\" and \"Claim your student plan for 1 year at no cost\"",
-      "source": "Google Blog",
-      "category": "Tech"
-    },
-    {
       "title": "Back to School 2026",
       "link": "https://blog.google/products-and-platforms/products/education/back-to-school-2026/",
       "published": "Wed, 19 Aug 2026 19:00:00 +0000",
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BTSBundleCollection_Hero.max-600x600.format-webp.webp\" />How Google tools can help students and educators this back-to-school season.",
+      "source": "Google Blog",
+      "category": "Tech"
+    },
+    {
+      "title": "Start the semester with one year of Gemini, on us",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/",
+      "published": "Wed, 19 Aug 2026 19:00:00 +0000",
+      "summary": "Text reading: \"Google Gemini\" and \"Claim your student plan for 1 year at no cost\"",
       "source": "Google Blog",
       "category": "Tech"
     },
@@ -48,14 +48,6 @@
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Ojai_vehicles_social.max-600x600.format-webp.webp\" />Waymo is bringing Gemini to its custom-built Ojai vehicles to create a more helpful and personalized ride.",
       "source": "Google Blog",
       "category": "Tech"
-    },
-    {
-      "title": "Rogue ransomware affiliate poses as recovery firm to steal payments",
-      "link": "https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-recovery-firm/",
-      "published": "Wed, 19 Aug 2026 16:59:58 -0400",
-      "summary": "A suspected ransomware affiliate is posing as a ransomware recovery service called \"Ransom Busters,\" contacting the victims before the attacks become public and claiming to be able to provide decryption keys and delete stolen data for a fee…",
-      "source": "BleepingComputer",
-      "category": "Cyber"
     },
     {
       "title": "What 3 creatives built with unlimited access to Google Flow",
@@ -106,18 +98,18 @@
       "category": "Tech"
     },
     {
-      "title": "Keep your SAT prep on track with practice tests in Gemini.",
-      "link": "https://blog.google/innovation-and-ai/products/gemini-app/how-to-take-practice-sat/",
-      "published": "Tue, 18 Aug 2026 16:00:00 +0000",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SAT_tests_in_Gemini_social.max-600x600.format-webp.webp\" />Google’s Gemini app offers full-length practice SAT tests at no cost. Here’s how to take these SAT practice…",
-      "source": "Google Blog",
-      "category": "Tech"
-    },
-    {
       "title": "Ask a Scientist: How can researchers use AI to predict a flood?",
       "link": "https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai/",
       "published": "Tue, 18 Aug 2026 16:00:00 +0000",
       "summary": "On the left: A blue background with black text saying 'Google' and 'Ask a scientist about flood forecasting.' On the right: Two Googlers in a virtual interview about flood forecasting",
+      "source": "Google Blog",
+      "category": "Tech"
+    },
+    {
+      "title": "Keep your SAT prep on track with practice tests in Gemini.",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/how-to-take-practice-sat/",
+      "published": "Tue, 18 Aug 2026 16:00:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SAT_tests_in_Gemini_social.max-600x600.format-webp.webp\" />Google’s Gemini app offers full-length practice SAT tests at no cost. Here’s how to take these SAT practice…",
       "source": "Google Blog",
       "category": "Tech"
     },
@@ -402,14 +394,6 @@
       "category": "Tech"
     },
     {
-      "title": "Omni experts share what excites them most about the model.",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-experts-roundtable/",
-      "published": "Thu, 13 Aug 2026 13:30:00 +0000",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Omni_experts_social.max-600x600.format-webp.webp\" />We interviewed some of the experts behind Gemini Omni to hear what excites them most about the model.",
-      "source": "Google Blog",
-      "category": "Tech"
-    },
-    {
       "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
       "link": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
       "published": "Thu, 06 Aug 2026 17:00:56 +0000",
@@ -490,6 +474,14 @@
       "category": "Cyber"
     },
     {
+      "title": "Tap to pay with Google Pay is coming to Walmart.",
+      "link": "https://blog.google/products-and-platforms/platforms/google-pay/tap-to-pay-google-pay-walmart/",
+      "published": "Fri, 21 Aug 2026 14:00:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GPay_Walmart_social.max-600x600.format-webp.webp\" />Add your preferred card to Google Wallet to tap to pay at Walmart stores.",
+      "source": "Google Blog",
+      "category": "Tech"
+    },
+    {
       "title": "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
       "link": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html",
       "published": "Fri, 21 Aug 2026 12:34:25 +0530",
@@ -503,6 +495,14 @@
       "published": "Fri, 21 Aug 2026 11:36:11 +0530",
       "summary": "Microsoft on Thursday warned of a maximum-severity security flaw in Entra ID that it said has been exploited in the wild, but noted that no customer action is required. The vulnerability, tracked as CVE-2026-69836 (CVSS score: 10.0), is a c…",
       "source": "The Hacker News",
+      "category": "Cyber"
+    },
+    {
+      "title": "Is Online Privacy Possible? How Digital Identities Can Help",
+      "link": "https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/",
+      "published": "Fri, 21 Aug 2026 10:00:10 -0400",
+      "summary": "Using the same email, phone number, payment method, and other identifiers makes it easier for data brokers and attackers to profile your activity. Anonyome Labs explains how separate digital personas can reduce correlation and limit the imp…",
+      "source": "BleepingComputer",
       "category": "Cyber"
     },
     {
