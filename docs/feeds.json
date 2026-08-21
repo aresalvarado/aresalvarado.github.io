@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21 07:39 UTC",
+  "generated_at": "2026-08-21 08:35 UTC",
   "items": [
     {
       "title": "LG to Ban Residential Proxies from Smart TV Apps",
@@ -48,14 +48,6 @@
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BTSBundleCollection_Hero.max-600x600.format-webp.webp\" />How Google tools can help students and educators this back-to-school season.",
       "source": "Google Blog",
       "category": "Tech"
-    },
-    {
-      "title": "SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs",
-      "link": "https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html",
-      "published": "Wed, 19 Aug 2026 18:42:17 +0530",
-      "summary": "A previously unreported cyber espionage operation dubbed SilkParasite has been observed targeting government bodies in Central Asia. The intrusion set makes use of seven remote access tool (RAT) families, five of which have never been previ…",
-      "source": "The Hacker News",
-      "category": "Cyber"
     },
     {
       "title": "Waymo is bringing Gemini into its custom Ojai vehicles.",
@@ -536,6 +528,14 @@
       "summary": "<p>by <a href=\"https://www.linkedin.com/in/aarti-laddha-70666557/\">Aarti Laddha</a>, <a href=\"https://www.linkedin.com/in/richardjcool/\">Richard Diaz-Cool</a>, <a href=\"https://www.linkedin.com/in/rishikaidnani/\">Rishika Idnani</a>, <a href…",
       "source": "Netflix TechBlog",
       "category": "Tech"
+    },
+    {
+      "title": "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
+      "link": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html",
+      "published": "Fri, 21 Aug 2026 12:34:25 +0530",
+      "summary": "A newly disclosed security flaw in GitLab has come under active exploitation within days of public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-19478 (CVSS score: 9.4), a case of code injection that allows a…",
+      "source": "The Hacker News",
+      "category": "Cyber"
     },
     {
       "title": "Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution",
