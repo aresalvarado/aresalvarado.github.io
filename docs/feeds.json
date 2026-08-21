@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21 12:39 UTC",
+  "generated_at": "2026-08-21 13:42 UTC",
   "items": [
     {
       "title": "LG to Ban Residential Proxies from Smart TV Apps",
@@ -54,14 +54,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-recovery-firm/",
       "published": "Wed, 19 Aug 2026 16:59:58 -0400",
       "summary": "A suspected ransomware affiliate is posing as a ransomware recovery service called \"Ransom Busters,\" contacting the victims before the attacks become public and claiming to be able to provide decryption keys and delete stolen data for a fee…",
-      "source": "BleepingComputer",
-      "category": "Cyber"
-    },
-    {
-      "title": "Sakura Internet hack exposes data of up to 1.36 million accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/sakura-internet-hack-exposes-data-of-up-to-136-million-accounts/",
-      "published": "Wed, 19 Aug 2026 16:53:38 -0400",
-      "summary": "Japanese cloud and data center service provider Sakura Internet disclosed that hackers accessed its sales management system, where customer contract and membership information is stored. [...]",
       "source": "BleepingComputer",
       "category": "Cyber"
     },
@@ -511,6 +503,14 @@
       "published": "Fri, 21 Aug 2026 11:36:11 +0530",
       "summary": "Microsoft on Thursday warned of a maximum-severity security flaw in Entra ID that it said has been exploited in the wild, but noted that no customer action is required. The vulnerability, tracked as CVE-2026-69836 (CVSS score: 10.0), is a c…",
       "source": "The Hacker News",
+      "category": "Cyber"
+    },
+    {
+      "title": "Microsoft rolls out Classic Outlook theme for New Outlook users",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-classic-outlook-theme-for-new-outlook-users/",
+      "published": "Fri, 21 Aug 2026 09:39:35 -0400",
+      "summary": "Microsoft has started rolling out a Classic Outlook theme for users of Outlook on the web and the New Outlook for Windows. [...]",
+      "source": "BleepingComputer",
       "category": "Cyber"
     },
     {
