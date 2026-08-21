@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21 15:28 UTC",
+  "generated_at": "2026-08-21 16:28 UTC",
   "items": [
     {
       "title": "LG to Ban Residential Proxies from Smart TV Apps",
@@ -18,18 +18,18 @@
       "category": "Tech"
     },
     {
-      "title": "Back to School 2026",
-      "link": "https://blog.google/products-and-platforms/products/education/back-to-school-2026/",
-      "published": "Wed, 19 Aug 2026 19:00:00 +0000",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BTSBundleCollection_Hero.max-600x600.format-webp.webp\" />How Google tools can help students and educators this back-to-school season.",
-      "source": "Google Blog",
-      "category": "Tech"
-    },
-    {
       "title": "Start the semester with one year of Gemini, on us",
       "link": "https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/",
       "published": "Wed, 19 Aug 2026 19:00:00 +0000",
       "summary": "Text reading: \"Google Gemini\" and \"Claim your student plan for 1 year at no cost\"",
+      "source": "Google Blog",
+      "category": "Tech"
+    },
+    {
+      "title": "Back to School 2026",
+      "link": "https://blog.google/products-and-platforms/products/education/back-to-school-2026/",
+      "published": "Wed, 19 Aug 2026 19:00:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BTSBundleCollection_Hero.max-600x600.format-webp.webp\" />How Google tools can help students and educators this back-to-school season.",
       "source": "Google Blog",
       "category": "Tech"
     },
@@ -90,18 +90,18 @@
       "category": "Tech"
     },
     {
-      "title": "Ask a Scientist: How can researchers use AI to predict a flood?",
-      "link": "https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai/",
-      "published": "Tue, 18 Aug 2026 16:00:00 +0000",
-      "summary": "On the left: A blue background with black text saying 'Google' and 'Ask a scientist about flood forecasting.' On the right: Two Googlers in a virtual interview about flood forecasting",
-      "source": "Google Blog",
-      "category": "Tech"
-    },
-    {
       "title": "Keep your SAT prep on track with practice tests in Gemini.",
       "link": "https://blog.google/innovation-and-ai/products/gemini-app/how-to-take-practice-sat/",
       "published": "Tue, 18 Aug 2026 16:00:00 +0000",
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SAT_tests_in_Gemini_social.max-600x600.format-webp.webp\" />Google’s Gemini app offers full-length practice SAT tests at no cost. Here’s how to take these SAT practice…",
+      "source": "Google Blog",
+      "category": "Tech"
+    },
+    {
+      "title": "Ask a Scientist: How can researchers use AI to predict a flood?",
+      "link": "https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai/",
+      "published": "Tue, 18 Aug 2026 16:00:00 +0000",
+      "summary": "On the left: A blue background with black text saying 'Google' and 'Ask a scientist about flood forecasting.' On the right: Two Googlers in a virtual interview about flood forecasting",
       "source": "Google Blog",
       "category": "Tech"
     },
@@ -266,14 +266,6 @@
       "category": "Tech"
     },
     {
-      "title": "40 Malicious Firefox Extensions Pose as Web3 Products to Steal Wallet Secrets",
-      "link": "https://thehackernews.com/2026/08/40-malicious-firefox-extensions-pose-as.html",
-      "published": "Thu, 20 Aug 2026 14:12:03 +0530",
-      "summary": "A set of 40 Mozilla Firefox extensions has been found to engage in cryptocurrency wallet theft by masquerading as OKX, Rabby Wallet, TronLink, and other Web3 products. According to the Socket Threat Research team, the extensions are part of…",
-      "source": "The Hacker News",
-      "category": "Cyber"
-    },
-    {
       "title": "Hackers poison arrayref Rust crate to push infostealer malware",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/",
       "published": "Thu, 20 Aug 2026 13:53:52 -0400",
@@ -288,14 +280,6 @@
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Max_Announcement.max-600x600.format-webp.webp\" />Use new AI Max tools — like A/B tests and performance planners for budget and bidding changes — to maximize your S…",
       "source": "Google Blog",
       "category": "Tech"
-    },
-    {
-      "title": "Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code",
-      "link": "https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html",
-      "published": "Thu, 20 Aug 2026 11:34:34 +0530",
-      "summary": "Cybersecurity researchers have disclosed details of a critical flaw in the Elementor Pro WordPress plugin that, if successfully exploited, could lead to remote code execution. The vulnerability, tracked as CVE-2026-32475, carries a CVSS sco…",
-      "source": "The Hacker News",
-      "category": "Cyber"
     },
     {
       "title": "Critical Elementor Pro bug exposes WordPress sites to RCE attacks",
@@ -346,14 +330,6 @@
       "category": "Cyber"
     },
     {
-      "title": "Microsoft says August Windows updates may cause gaming issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/",
-      "published": "Thu, 20 Aug 2026 02:51:03 -0400",
-      "summary": "Microsoft is investigating a potential issue with the August 2026 updates that may prevent some games from launching or cause them to crash on affected Windows 11 systems. [...]",
-      "source": "BleepingComputer",
-      "category": "Cyber"
-    },
-    {
       "title": "Introducing Gemini 3.7 Flash",
       "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
       "published": "Thu, 13 Aug 2026 17:00:00 +0000",
@@ -366,22 +342,6 @@
       "link": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
       "published": "Thu, 13 Aug 2026 16:45:00 +0000",
       "summary": "The video shows Sheets canvas in action.",
-      "source": "Google Blog",
-      "category": "Tech"
-    },
-    {
-      "title": "Stay present while taking pictures with Magic Capture on Pixel 11.",
-      "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-magic-capture/",
-      "published": "Thu, 13 Aug 2026 16:00:00 +0000",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MagicCapture.max-600x600.format-webp.webp\" />Pixel 11’s new Magic Capture feature finds the best shots from dynamic scenes so you don’t miss precious moments trying t…",
-      "source": "Google Blog",
-      "category": "Tech"
-    },
-    {
-      "title": "Get updates while your Pixel 11 Pro is face down with HiLight.",
-      "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-hilight/",
-      "published": "Thu, 13 Aug 2026 16:00:00 +0000",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KW_G_HiLite.max-600x600.format-webp.webp\" />HiLight, a new Pixel 11 Pro feature, gently glows to notify you of timely updates — keeping you informed when your phone i…",
       "source": "Google Blog",
       "category": "Tech"
     },
@@ -450,6 +410,22 @@
       "category": "Tech"
     },
     {
+      "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
+      "link": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html",
+      "published": "Fri, 21 Aug 2026 21:22:10 +0530",
+      "summary": "Check Point Research has disclosed a technique that uses Microsoft Defender's own legitimately signed boot-time remediation driver to perform arbitrary kernel-level file and registry operations on Windows systems ranging from Windows 7 thro…",
+      "source": "The Hacker News",
+      "category": "Cyber"
+    },
+    {
+      "title": "Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet",
+      "link": "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html",
+      "published": "Fri, 21 Aug 2026 21:11:44 +0530",
+      "summary": "Cybersecurity researchers have flagged a new malware family that's specifically designed to infect Android-based vehicle head unit firmware developed by DoFun. Kaspersky, which discovered the threat in June 2026, said the end goal of the ma…",
+      "source": "The Hacker News",
+      "category": "Cyber"
+    },
+    {
       "title": "Wazuh and AI For Enhanced SOC Workflows",
       "link": "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html",
       "published": "Fri, 21 Aug 2026 16:51:39 +0530",
@@ -458,12 +434,36 @@
       "category": "Cyber"
     },
     {
+      "title": "A Tale of Two Flink Autoscalers",
+      "link": "https://netflixtechblog.com/a-tale-of-two-flink-autoscalers-e9f6a1b1492b?source=rss----2615bd06b42e---4",
+      "published": "Fri, 21 Aug 2026 16:01:01 GMT",
+      "summary": "<p><a href=\"https://www.linkedin.com/in/samueltyeboah/\">Samuel Yeboah</a>, <a href=\"https://www.linkedin.com/in/dichiarafrancesco/\">Francesco Di Chiara</a> and <a href=\"https://www.linkedin.com/in/liuml07/\">Mingliang Liu</a></p><p>Today, Ne…",
+      "source": "Netflix TechBlog",
+      "category": "Tech"
+    },
+    {
+      "title": "What does “full-stack” AI actually mean?",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/what-full-stack-development-means/",
+      "published": "Fri, 21 Aug 2026 16:00:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/thumbnail_BfIj9lP.max-600x600.format-webp.webp\" />A Google DeepMind engineer breaks full-stack development into five simple layers and explains how it affects everyda…",
+      "source": "Google Blog",
+      "category": "Tech"
+    },
+    {
       "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
       "link": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
       "published": "Fri, 21 Aug 2026 15:33:11 +0530",
       "summary": "Cisco has published another round of security updates for Crosswork platforms and Secure Workload Software as part of a continued comprehensive internal security review. Four of the security vulnerabilities affect Crosswork Data Gateway, Cr…",
       "source": "The Hacker News",
       "category": "Cyber"
+    },
+    {
+      "title": "Here's how to use sign-to-text translation on Pixel 11.",
+      "link": "https://blog.google/products-and-platforms/devices/pixel/american-sign-language-sign-to-text-pixel-11/",
+      "published": "Fri, 21 Aug 2026 15:00:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/American_Sign_Language_Pixel_11.max-600x600.format-webp.webp\" />Developed in partnership with the Deaf community, sign-to-text translates ASL into text in real time.",
+      "source": "Google Blog",
+      "category": "Tech"
     },
     {
       "title": "Tap to pay with Google Pay is coming to Walmart.",
@@ -479,6 +479,14 @@
       "published": "Fri, 21 Aug 2026 12:34:25 +0530",
       "summary": "A newly disclosed security flaw in GitLab has come under active exploitation within days of public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-19478 (CVSS score: 9.4), a case of code injection that allows a…",
       "source": "The Hacker News",
+      "category": "Cyber"
+    },
+    {
+      "title": "Hundreds of leaked AWS keys give full control over corporate accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/",
+      "published": "Fri, 21 Aug 2026 11:55:15 -0400",
+      "summary": "More than 9,300 Amazon Web Services (AWS) access keys publicly exposed between August 2022 and August 2026 are still active and valid. [...]",
+      "source": "BleepingComputer",
       "category": "Cyber"
     },
     {
@@ -566,14 +574,6 @@
       "link": "https://netflixtechblog.com/the-data-canary-how-netflix-validates-catalog-metadata-18b699d58e36?source=rss----2615bd06b42e---4",
       "published": "Fri, 19 Jun 2026 23:54:17 GMT",
       "summary": "<p>By <a href=\"https://www.linkedin.com/in/celina-amados/\">Celina Amados</a></p><p><em>At Netflix, our catalog metadata is crucial to our member experience, and a single corrupted data state can impact millions of viewers immediately. To pr…",
-      "source": "Netflix TechBlog",
-      "category": "Tech"
-    },
-    {
-      "title": "Data Projects: Managing Data Assets at Netflix Scale",
-      "link": "https://netflixtechblog.com/data-projects-managing-data-assets-at-netflix-scale-7ca25888591e?source=rss----2615bd06b42e---4",
-      "published": "Fri, 19 Jun 2026 23:54:00 GMT",
-      "summary": "<h4><em>By </em><a href=\"https://www.linkedin.com/in/amer-hesson-0886a5a5/\"><em>Amer Hesson</em></a><em>, </em><a href=\"https://www.linkedin.com/in/mayworm/\"><em>Marcelo Mayworm</em></a><em>, </em><a href=\"https://www.linkedin.com/in/james-…",
       "source": "Netflix TechBlog",
       "category": "Tech"
     },
