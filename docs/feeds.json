@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21 09:32 UTC",
+  "generated_at": "2026-08-21 10:26 UTC",
   "items": [
     {
       "title": "LG to Ban Residential Proxies from Smart TV Apps",
@@ -102,14 +102,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/",
       "published": "Wed, 19 Aug 2026 13:50:01 -0400",
       "summary": "U.S. cybersecurity agencies warn that threat actors are using AI-generated scripts to exploit Siemens S7 Series programmable logic controllers (PLCs) in U.S. critical infrastructure. [...]",
-      "source": "BleepingComputer",
-      "category": "Cyber"
-    },
-    {
-      "title": "US charges Iranian hackers over $3.4 billion intellectual property theft",
-      "link": "https://www.bleepingcomputer.com/news/security/us-charges-iranian-hackers-over-34-billion-intellectual-property-theft/",
-      "published": "Wed, 19 Aug 2026 11:56:09 -0400",
-      "summary": "The U.S. has charged 17 Iranians, alleged members of a hacking-for-hire company called Mabna Institute, involved in years-long operations that stole data from American organizations. [...]",
       "source": "BleepingComputer",
       "category": "Cyber"
     },
@@ -543,6 +535,14 @@
       "published": "Fri, 21 Aug 2026 11:36:11 +0530",
       "summary": "Microsoft on Thursday warned of a maximum-severity security flaw in Entra ID that it said has been exploited in the wild, but noted that no customer action is required. The vulnerability, tracked as CVE-2026-69836 (CVSS score: 10.0), is a c…",
       "source": "The Hacker News",
+      "category": "Cyber"
+    },
+    {
+      "title": "SickKids data breach exposes employee and job applicant info",
+      "link": "https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/",
+      "published": "Fri, 21 Aug 2026 06:10:42 -0400",
+      "summary": "Toronto's Hospital for Sick Children (SickKids) says a cybersecurity incident exposed the personal information of some current and former employees and job applicants, stemming from a flaw in third-party software. Clinical systems and patie…",
+      "source": "BleepingComputer",
       "category": "Cyber"
     },
     {
