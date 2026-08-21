@@ -1,64 +1,13 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>News Dashboard</title>
-  <style>
-    :root{
-      --bg:#0b0f14; --card:#121826; --text:#e6edf3; --muted:#9aa4b2; --link:#7cc4ff;
-      --chip:#1f2a3a; --border:#223047;
-    }
-    @media (prefers-color-scheme: light){
-      :root{ --bg:#ffffff; --card:#f6f8fa; --text:#111827; --muted:#4b5563; --link:#0969da; --chip:#e5e7eb; --border:#d0d7de; }
-    }
-    body{ margin:0; font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; background:var(--bg); color:var(--text); }
-    header{ position:sticky; top:0; background:color-mix(in srgb, var(--bg) 90%, transparent); backdrop-filter: blur(8px);
-            border-bottom:1px solid var(--border); padding:14px 16px; }
-    .wrap{ max-width: 980px; margin: 0 auto; }
-    h1{ font-size: 18px; margin:0 0 10px 0; }
-    .controls{ display:flex; gap:10px; flex-wrap:wrap; align-items:center; }
-    input, select{
-      background:var(--card); color:var(--text); border:1px solid var(--border);
-      padding:10px 12px; border-radius:10px; outline:none;
-    }
-    input{ flex:1; min-width: 220px; }
-    .meta{ color:var(--muted); font-size: 12px; margin-top:8px; }
-    main{ padding: 16px; }
-    .item{ background:var(--card); border:1px solid var(--border); border-radius:12px; padding:12px 12px; margin-bottom:10px; }
-    .top{ display:flex; justify-content:space-between; gap:12px; align-items:baseline; }
-    a{ color:var(--link); text-decoration:none; }
-    a:hover{ text-decoration:underline; }
-    .chips{ display:flex; gap:8px; flex-wrap:wrap; margin-top:8px; }
-    .chip{ background:var(--chip); border:1px solid var(--border); color:var(--muted); font-size: 12px; padding:3px 8px; border-radius:999px; }
-    .small{ color:var(--muted); font-size: 12px; }
-  </style>
-</head>
-<body>
-  <header>
-    <div class="wrap">
-      <h1>Cyber + Tech News</h1>
-      <div class="controls">
-        <input id="q" placeholder="Search titles…" />
-        <select id="cat">
-          <option value="all">All categories</option>
-        </select>
-        <select id="src">
-          <option value="all">All sources</option>
-        </select>
-      </div>
-      <div class="meta" id="meta">Loading…</div>
-    </div>
-  </header>
-
-  <main class="wrap">
-    <div id="list"></div>
-  </main>
-
 <script>
-let DATA = null;
+let DATA = { generated_at: "", items: [] };
 
 function uniq(arr){ return [...new Set(arr)].sort(); }
+
+function escapeHtml(s) {
+  return (s || "").replace(/[&<>"']/g, c => ({
+    "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"
+  }[c]));
+}
 
 function render() {
   const q = document.getElementById("q").value.trim().toLowerCase();
@@ -76,14 +25,18 @@ function render() {
   list.innerHTML = items.map(it => `
     <div class="item">
       <div class="top">
-        <div><a href="${it.link}" target="_blank" rel="noopener noreferrer">${it.title}</a></div>
+        <div>
+          <a href="${it.link}" target="_blank" rel="noopener noreferrer">
+            ${escapeHtml(it.title)}
+          </a>
+        </div>
       </div>
       <div class="chips">
-        <span class="chip">${it.category}</span>
-        <span class="chip">${it.source}</span>
-        <span class="chip">${it.published || ""}</span>
+        <span class="chip">${escapeHtml(it.category)}</span>
+        <span class="chip">${escapeHtml(it.source)}</span>
+        <span class="chip">${escapeHtml(it.published || "")}</span>
       </div>
-      ${it.summary ? `<div class="small" style="margin-top:8px;">${it.summary}</div>` : ""}
+      ${it.summary ? `<div class="small" style="margin-top:8px;">${escapeHtml(it.summary)}</div>` : ""}
     </div>
   `).join("") || `<div class="small">No matches.</div>`;
 
@@ -91,14 +44,60 @@ function render() {
     `Updated: ${DATA.generated_at} • Showing ${items.length} items`;
 }
 
+const WORKER = "https://rss-proxy.aresronaldoalvarado.workers.dev/";
+
+const FEEDS = [
+  { category:"Cyber", source:"BleepingComputer", url:"https://www.bleepingcomputer.com/feed/" },
+  { category:"Cyber", source:"The Hacker News", url:"https://feeds.feedburner.com/TheHackersNews" },
+  { category:"Cyber", source:"KrebsOnSecurity", url:"https://krebsonsecurity.com/feed/" },
+  { category:"Tech", source:"Apple Newsroom", url:"https://www.apple.com/newsroom/rss-feed.rss" },
+  { category:"Tech", source:"NVIDIA Blog", url:"https://blogs.nvidia.com/blog/feed/" },
+  { category:"Tech", source:"Google Blog", url:"https://blog.google/rss/" },
+  { category:"Tech", source:"Netflix TechBlog", url:"https://netflixtechblog.com/feed" },
+];
+
+// Fetch JSON from the Worker
+async function fetchFeedJson(feedUrl) {
+  const res = await fetch(`${WORKER}/feed?url=${encodeURIComponent(feedUrl)}`, { cache: "no-store" });
+  if (!res.ok) throw new Error(`Worker fetch failed ${res.status} for ${feedUrl}`);
+  const data = await res.json();
+  if (!data.ok) throw new Error(`Worker returned error for ${feedUrl}: ${data.error || "unknown"}`);
+  return data; // { ok, title, items, fetched_at, ... }
+}
+
 async function init() {
-  const res = await fetch("./feeds.json", { cache: "no-store" });
-  DATA = await res.json();
+  document.getElementById("meta").textContent = "Loading feeds…";
+
+  const results = await Promise.all(
+    FEEDS.map(async (f) => {
+      const data = await fetchFeedJson(f.url);
+      const items = (data.items || []).map(it => ({
+        title: it.title || "",
+        link: it.link || "",
+        published: it.published || "",
+        summary: it.summary || "",
+        category: f.category,
+        source: f.source
+      }));
+      return { fetched_at: data.fetched_at, items };
+    })
+  );
+
+  const merged = results.flatMap(r => r.items);
+  merged.sort((a, b) => (b.published || "").localeCompare(a.published || ""));
+
+  const newestFetched = results.map(r => r.fetched_at).sort().slice(-1)[0] || new Date().toISOString();
+
+  DATA = {
+    generated_at: newestFetched,
+    items: merged
+  };
 
   const cats = uniq(DATA.items.map(i => i.category));
   const srcs = uniq(DATA.items.map(i => i.source));
 
   const catSel = document.getElementById("cat");
+  catSel.innerHTML = `<option value="all">All categories</option>`;
   cats.forEach(c => {
     const o = document.createElement("option");
     o.value = c; o.textContent = c;
@@ -106,6 +105,7 @@ async function init() {
   });
 
   const srcSel = document.getElementById("src");
+  srcSel.innerHTML = `<option value="all">All sources</option>`;
   srcs.forEach(s => {
     const o = document.createElement("option");
     o.value = s; o.textContent = s;
@@ -114,9 +114,6 @@ async function init() {
 
   ["q","cat","src"].forEach(id => document.getElementById(id).addEventListener("input", render));
   ["cat","src"].forEach(id => document.getElementById(id).addEventListener("change", render));
+
   render();
 }
-init().catch(err => document.getElementById("meta").textContent = "Failed to load feeds.json: " + err);
-</script>
-</body>
-</html>
