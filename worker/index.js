@@ -111,13 +111,14 @@ function decode(s) {
 
 // Grab the text of the first <tag>...</tag>, ignoring namespace prefixes.
 function tag(block, name) {
-  const re = new RegExp(`<(?:[\w-]+:)?${name}(?:\s[^>]*)?>([\s\S]*?)<\/(?:[\w-]+:)?${name}\s*>`, "i");
+  // String.raw: in a plain template literal JS eats the backslash in \w, \s, \S.
+  const re = new RegExp(String.raw`<(?:[\w-]+:)?${name}(?:\s[^>]*)?>([\s\S]*?)</(?:[\w-]+:)?${name}\s*>`, "i");
   const m = block.match(re);
   return m ? decode(m[1]).trim() : "";
 }
 
 function blocks(xml, name) {
-  const re = new RegExp(`<(?:[\w-]+:)?${name}(?:\s[^>]*)?>[\s\S]*?<\/(?:[\w-]+:)?${name}\s*>`, "gi");
+  const re = new RegExp(String.raw`<(?:[\w-]+:)?${name}(?:\s[^>]*)?>[\s\S]*?</(?:[\w-]+:)?${name}\s*>`, "gi");
   return xml.match(re) || [];
 }
 
