@@ -1,0 +1,10 @@
+name = "rss-proxy"
+main = "src/index.js"
+compatibility_date = "2026-08-27"
+
+[observability]
+enabled = true
+
+# Must be the exact GitHub Pages origin: no path, no trailing slash.
+[vars]
+ALLOWED_ORIGIN = "https://aresalvarado.github.io"

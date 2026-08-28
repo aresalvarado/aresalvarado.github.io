@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0b0f14">
+  <meta name="description" content="A focused cybersecurity and technology news reader.">
+  <title>Signal / RSS Reader</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="app-shell">
+    <header class="site-header">
+      <a class="brand" href="./" aria-label="Signal home"><span class="brand-mark">//</span><span>SIGNAL</span><span class="brand-slash">RSS</span></a>
+      <div class="header-actions">
+        <span class="status-dot" aria-hidden="true"></span><span id="sync-status">OFFLINE READY</span>
+        <button class="mode-toggle" id="mode-toggle" type="button" aria-pressed="false"><span aria-hidden="true">◒</span> <span id="mode-label">ASCII MODE</span></button>
+      </div>
+    </header>
+
+    <main>
+      <section class="intro" aria-labelledby="page-title">
+        <div><p class="eyebrow">CYBERSECURITY / TECHNOLOGY / SIGNAL</p><h1 id="page-title">The daily breach<br><em>in the noise.</em></h1></div>
+        <p class="intro-copy">A deliberate stream of security intelligence, technical shifts, and the ideas changing how systems stay standing.</p>
+      </section>
+
+      <section class="controls" aria-label="News controls">
+        <label class="search-box"><span aria-hidden="true">⌕</span><input id="search-input" type="search" placeholder="Search the signal..." autocomplete="off"></label>
+        <div class="filter-wrap"><label for="source-filter">SOURCE</label><select id="source-filter"><option value="all">All sources</option></select></div>
+        <button class="refresh-button" id="refresh-button" type="button"><span aria-hidden="true">↻</span> Refresh</button>
+      </section>
+
+      <p class="key-help" id="key-help" hidden>KEYS: <kbd>j</kbd>/<kbd>k</kbd> move &middot; <kbd>g</kbd>/<kbd>G</kbd> first/last &middot; <kbd>Enter</kbd> open &middot; <kbd>/</kbd> search &middot; <kbd>r</kbd> refresh &middot; <kbd>m</kbd> mode</p>
+      <section class="feed-meta"><p id="result-count">Waiting for signal</p><p id="last-updated"></p></section>
+      <p class="source-health" id="source-health" hidden></p>
+      <div id="feedback" class="feedback" role="status" aria-live="polite"><span class="loader" aria-hidden="true"></span><span>Connecting to the signal...</span></div>
+      <section id="article-list" class="article-list" aria-label="Latest news"></section>
+    </main>
+
+    <footer><span>SYS.SIGNAL // CURATED OPEN SOURCE INTELLIGENCE</span><span id="footer-clock"></span></footer>
+  </div>
+  <script src="app.js" defer></script>
+</body>
+</html>
